@@ -1,0 +1,5 @@
+mods/data/puppeteer/puppeteer.json
+mods/songs/puppeteer/Voices.ogg
+mods/songs/puppeteer/Inst.ogg
+mods/songs/puppeteer/voices.ogg
+mods/songs/puppeteer/inst.ogg

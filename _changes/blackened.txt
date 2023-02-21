@@ -1,0 +1,8 @@
+mods/data/blackened/blackened-despair.json
+mods/data/blackened/blackened-placeholder.json
+mods/data/blackened/blackened.json
+mods/data/blackened/events.json
+mods/songs/blackened/Voices.ogg
+mods/songs/blackened/Inst.ogg
+mods/songs/blackened/voices.ogg
+mods/songs/blackened/inst.ogg
