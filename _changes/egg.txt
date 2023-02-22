@@ -1,0 +1,5 @@
+mods/data/egg/egg.json
+mods/songs/egg/Voices.ogg
+mods/songs/egg/Inst.ogg
+mods/songs/egg/voices.ogg
+mods/songs/egg/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/feet/feet-easy.json
+mods/data/feet/feet-hard.json
+mods/data/feet/feet.json
+mods/songs/feet/Voices.ogg
+mods/songs/feet/Inst.ogg
+mods/songs/feet/voices.ogg
+mods/songs/feet/inst.ogg

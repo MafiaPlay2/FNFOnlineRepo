@@ -1,0 +1,7 @@
+mods/data/potacsio-phantasy/potacsio-phantasy-easy.json
+mods/data/potacsio-phantasy/potacsio-phantasy-hard.json
+mods/data/potacsio-phantasy/potacsio-phantasy.json
+mods/songs/potacsio-phantasy/Voices.ogg
+mods/songs/potacsio-phantasy/Inst.ogg
+mods/songs/potacsio-phantasy/voices.ogg
+mods/songs/potacsio-phantasy/inst.ogg

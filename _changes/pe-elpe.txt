@@ -1,0 +1,7 @@
+mods/data/pe-elpe/events.json
+mods/data/pe-elpe/pe-elpe-hard.json
+mods/data/pe-elpe/pe-elpe.json
+mods/songs/pe-elpe/Voices.ogg
+mods/songs/pe-elpe/Inst.ogg
+mods/songs/pe-elpe/voices.ogg
+mods/songs/pe-elpe/inst.ogg

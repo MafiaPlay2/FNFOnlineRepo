@@ -1,0 +1,6 @@
+mods/data/todding/events.json
+mods/data/todding/todding.json
+mods/songs/todding/Voices.ogg
+mods/songs/todding/Inst.ogg
+mods/songs/todding/voices.ogg
+mods/songs/todding/inst.ogg

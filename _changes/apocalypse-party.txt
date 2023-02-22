@@ -1,0 +1,7 @@
+mods/data/apocalypse-party/apocalypse-party-easy.json
+mods/data/apocalypse-party/apocalypse-party-hard.json
+mods/data/apocalypse-party/apocalypse-party.json
+mods/songs/apocalypse-party/Voices.ogg
+mods/songs/apocalypse-party/Inst.ogg
+mods/songs/apocalypse-party/voices.ogg
+mods/songs/apocalypse-party/inst.ogg

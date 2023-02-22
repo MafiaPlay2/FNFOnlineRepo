@@ -1,0 +1,5 @@
+mods/data/silly-squabble/silly-squabble-normal.json
+mods/songs/silly-squabble/Voices.ogg
+mods/songs/silly-squabble/Inst.ogg
+mods/songs/silly-squabble/voices.ogg
+mods/songs/silly-squabble/inst.ogg

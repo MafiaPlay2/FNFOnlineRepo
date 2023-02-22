@@ -1,0 +1,6 @@
+mods/data/furia-agria/furia-agria-hard.json
+mods/data/furia-agria/furia-agria.json
+mods/songs/furia-agria/Voices.ogg
+mods/songs/furia-agria/Inst.ogg
+mods/songs/furia-agria/voices.ogg
+mods/songs/furia-agria/inst.ogg

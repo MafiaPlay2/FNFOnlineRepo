@@ -1,0 +1,7 @@
+mods/data/sole/sole-easy.json
+mods/data/sole/sole-hard.json
+mods/data/sole/sole.json
+mods/songs/sole/Voices.ogg
+mods/songs/sole/Inst.ogg
+mods/songs/sole/voices.ogg
+mods/songs/sole/inst.ogg

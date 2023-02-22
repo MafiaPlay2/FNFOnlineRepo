@@ -1,0 +1,7 @@
+mods/data/delivery/delivery-easy.json
+mods/data/delivery/delivery-hard.json
+mods/data/delivery/delivery.json
+mods/songs/delivery/Voices.ogg
+mods/songs/delivery/Inst.ogg
+mods/songs/delivery/voices.ogg
+mods/songs/delivery/inst.ogg

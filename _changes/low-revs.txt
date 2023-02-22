@@ -1,0 +1,7 @@
+mods/data/low-revs/low-revs-easy.json
+mods/data/low-revs/low-revs-hard.json
+mods/data/low-revs/low-revs.json
+mods/songs/low-revs/Voices.ogg
+mods/songs/low-revs/Inst.ogg
+mods/songs/low-revs/voices.ogg
+mods/songs/low-revs/inst.ogg

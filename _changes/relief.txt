@@ -1,0 +1,5 @@
+mods/data/relief/relief-hard.json
+mods/songs/relief/Voices.ogg
+mods/songs/relief/Inst.ogg
+mods/songs/relief/voices.ogg
+mods/songs/relief/inst.ogg

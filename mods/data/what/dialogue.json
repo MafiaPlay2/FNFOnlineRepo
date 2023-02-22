@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "that song sucked",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "right",
+			"text": "ok",
+			"boxState": "normal",
+			"sound": "him",
+			"speed": 0.05,
+			"portrait": "him2"
+		},
+		{
+			"expression": "right",
+			"text": "",
+			"boxState": "normal",
+			"sound": "him",
+			"speed": 0.05,
+			"portrait": "him2"
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		}
+	]
+}

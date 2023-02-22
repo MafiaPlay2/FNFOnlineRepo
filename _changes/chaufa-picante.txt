@@ -1,0 +1,6 @@
+mods/data/chaufa-picante/chaufa-picante-hard.json
+mods/data/chaufa-picante/chaufa-picante.json
+mods/songs/chaufa-picante/Voices.ogg
+mods/songs/chaufa-picante/Inst.ogg
+mods/songs/chaufa-picante/voices.ogg
+mods/songs/chaufa-picante/inst.ogg

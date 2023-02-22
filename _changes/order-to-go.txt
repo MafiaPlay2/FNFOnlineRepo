@@ -1,0 +1,7 @@
+mods/data/order-to-go/events.json
+mods/data/order-to-go/order-to-go-hard.json
+mods/data/order-to-go/order-to-go.json
+mods/songs/order-to-go/Voices.ogg
+mods/songs/order-to-go/Inst.ogg
+mods/songs/order-to-go/voices.ogg
+mods/songs/order-to-go/inst.ogg

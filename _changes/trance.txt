@@ -1,0 +1,6 @@
+mods/data/trance/trance-hard.json
+mods/data/trance/trance.json
+mods/songs/trance/Voices.ogg
+mods/songs/trance/Inst.ogg
+mods/songs/trance/voices.ogg
+mods/songs/trance/inst.ogg

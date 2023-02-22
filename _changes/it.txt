@@ -1,0 +1,6 @@
+mods/data/it/dialogue.json
+mods/data/it/it-normal.json
+mods/songs/it/Voices.ogg
+mods/songs/it/Inst.ogg
+mods/songs/it/voices.ogg
+mods/songs/it/inst.ogg

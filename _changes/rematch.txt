@@ -1,0 +1,5 @@
+mods/data/rematch/rematch-normal.json
+mods/songs/rematch/Voices.ogg
+mods/songs/rematch/Inst.ogg
+mods/songs/rematch/voices.ogg
+mods/songs/rematch/inst.ogg

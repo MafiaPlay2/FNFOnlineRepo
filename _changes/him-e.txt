@@ -1,0 +1,7 @@
+mods/data/him-e/dialogue.json
+mods/data/him-e/him-erect.json
+mods/data/him-e/him-normal.json
+mods/songs/him-e/Voices.ogg
+mods/songs/him-e/Inst.ogg
+mods/songs/him-e/voices.ogg
+mods/songs/him-e/inst.ogg

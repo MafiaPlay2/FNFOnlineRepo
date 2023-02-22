@@ -1,0 +1,6 @@
+mods/data/chorizo-quemado/chorizo-quemado-hard.json
+mods/data/chorizo-quemado/chorizo-quemado.json
+mods/songs/chorizo-quemado/Voices.ogg
+mods/songs/chorizo-quemado/Inst.ogg
+mods/songs/chorizo-quemado/voices.ogg
+mods/songs/chorizo-quemado/inst.ogg

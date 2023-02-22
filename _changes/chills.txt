@@ -1,0 +1,6 @@
+mods/data/chills/chills.json
+mods/data/chills/picospeaker.json
+mods/songs/chills/Voices.ogg
+mods/songs/chills/Inst.ogg
+mods/songs/chills/voices.ogg
+mods/songs/chills/inst.ogg

@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "right",
+			"text": "hi",
+			"boxState": "normal",
+			"sound": "him",
+			"speed": 0.05,
+			"portrait": "him2"
+		},
+		{
+			"expression": "right",
+			"text": "again",
+			"boxState": "normal",
+			"sound": "him",
+			"speed": 0.05,
+			"portrait": "him2"
+		},
+		{
+			"expression": "talk",
+			"text": "shut hte fcu k up",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "right",
+			"text": "Friday Night Funkin' (stylized as FRIDAY NIGHT FUNKIN' and often abbreviated to FNF) is an open-source",
+			"boxState": "normal",
+			"sound": "him",
+			"speed": 0.005,
+			"portrait": "him2"
+		},
+		{
+			"expression": "right",
+			"text": " donationware rhythm game first released in 2020 for a game jam.",
+			"boxState": "normal",
+			"sound": "him",
+			"speed": 0.005,
+			"portrait": "him2"
+		},
+		{
+			"expression": "right",
+			"text": "The game was developed by a team of four Newgrounds users, Cameron \"ninjamuffin99\" Taylor, David \"PhantomArcade\" Brown, Isaac",
+			"boxState": "normal",
+			"sound": "him",
+			"speed": 0.005,
+			"portrait": "him2"
+		},
+		{
+			"expression": "right",
+			"text": "\"Kawai Sprite\" Garcia, and evilsk8r. The game shares some gameplay features with Dance Dance Revolution and PaRappa the Rapper",
+			"boxState": "normal",
+			"sound": "him",
+			"speed": 0.005,
+			"portrait": "him2"
+		},
+		{
+			"expression": "talk",
+			"text": "shtu fhyrt the fuck up",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+mods/data/krusty-karoling/events.json
+mods/data/krusty-karoling/krusty-karoling.json
+mods/songs/krusty-karoling/Voices.ogg
+mods/songs/krusty-karoling/Inst.ogg
+mods/songs/krusty-karoling/voices.ogg
+mods/songs/krusty-karoling/inst.ogg
