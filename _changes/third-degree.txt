@@ -1,0 +1,5 @@
+mods/data/third-degree/third-degree-hard.json
+mods/songs/third-degree/Voices.ogg
+mods/songs/third-degree/Inst.ogg
+mods/songs/third-degree/voices.ogg
+mods/songs/third-degree/inst.ogg

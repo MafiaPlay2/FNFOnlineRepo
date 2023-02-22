@@ -1,0 +1,9 @@
+mods/data/breakout-keoni/breakout-keoni-easy.json
+mods/data/breakout-keoni/breakout-keoni-hard.json
+mods/data/breakout-keoni/breakout-keoni.json
+mods/data/breakout-keoni/dialogue.json
+mods/data/breakout-keoni/dialogueend.json
+mods/songs/breakout-keoni/Voices.ogg
+mods/songs/breakout-keoni/Inst.ogg
+mods/songs/breakout-keoni/voices.ogg
+mods/songs/breakout-keoni/inst.ogg

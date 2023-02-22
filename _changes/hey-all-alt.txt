@@ -1,0 +1,9 @@
+mods/data/hey-all-alt/dialogue.json
+mods/data/hey-all-alt/events.json
+mods/data/hey-all-alt/hey-all-easy.json
+mods/data/hey-all-alt/hey-all-hard.json
+mods/data/hey-all-alt/hey-all.json
+mods/songs/hey-all-alt/Voices.ogg
+mods/songs/hey-all-alt/Inst.ogg
+mods/songs/hey-all-alt/voices.ogg
+mods/songs/hey-all-alt/inst.ogg

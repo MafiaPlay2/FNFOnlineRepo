@@ -1,0 +1,9 @@
+mods/data/why-dont-you-play-them/dialogue.json
+mods/data/why-dont-you-play-them/events.json
+mods/data/why-dont-you-play-them/why-dont-you-play-them-easy.json
+mods/data/why-dont-you-play-them/why-dont-you-play-them-hard.json
+mods/data/why-dont-you-play-them/why-dont-you-play-them.json
+mods/songs/why-dont-you-play-them/Voices.ogg
+mods/songs/why-dont-you-play-them/Inst.ogg
+mods/songs/why-dont-you-play-them/voices.ogg
+mods/songs/why-dont-you-play-them/inst.ogg

@@ -1,0 +1,9 @@
+mods/data/final-thoughts/dialogue.json
+mods/data/final-thoughts/events.json
+mods/data/final-thoughts/final-thoughts-easy.json
+mods/data/final-thoughts/final-thoughts-hard.json
+mods/data/final-thoughts/final-thoughts.json
+mods/songs/final-thoughts/Voices.ogg
+mods/songs/final-thoughts/Inst.ogg
+mods/songs/final-thoughts/voices.ogg
+mods/songs/final-thoughts/inst.ogg

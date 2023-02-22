@@ -1,0 +1,5 @@
+mods/data/no-sex/no-sex-hard.json
+mods/songs/no-sex/Voices.ogg
+mods/songs/no-sex/Inst.ogg
+mods/songs/no-sex/voices.ogg
+mods/songs/no-sex/inst.ogg

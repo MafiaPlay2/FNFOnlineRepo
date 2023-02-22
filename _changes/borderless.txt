@@ -1,0 +1,9 @@
+mods/data/borderless/borderless-easy.json
+mods/data/borderless/borderless-hard.json
+mods/data/borderless/borderless.json
+mods/data/borderless/dialogue.json
+mods/data/borderless/dialogueend.json
+mods/songs/borderless/Voices.ogg
+mods/songs/borderless/Inst.ogg
+mods/songs/borderless/voices.ogg
+mods/songs/borderless/inst.ogg

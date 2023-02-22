@@ -1,0 +1,8 @@
+mods/data/closing-in/closing-in-easy.json
+mods/data/closing-in/closing-in-hard.json
+mods/data/closing-in/closing-in.json
+mods/data/closing-in/dialogue.json
+mods/songs/closing-in/Voices.ogg
+mods/songs/closing-in/Inst.ogg
+mods/songs/closing-in/voices.ogg
+mods/songs/closing-in/inst.ogg

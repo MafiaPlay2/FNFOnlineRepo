@@ -1,0 +1,7 @@
+mods/data/hyper-karma/config.json
+mods/data/hyper-karma/hyper-karma-hard.json
+mods/data/hyper-karma/hyper-karma-mania.json
+mods/songs/hyper-karma/Voices.ogg
+mods/songs/hyper-karma/Inst.ogg
+mods/songs/hyper-karma/voices.ogg
+mods/songs/hyper-karma/inst.ogg

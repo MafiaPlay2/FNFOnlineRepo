@@ -1,0 +1,9 @@
+mods/data/cyean/config.json
+mods/data/cyean/cyean-hard.json
+mods/data/cyean/cyean-mania.json
+mods/data/cyean/cyean.json
+mods/data/cyean/events.json
+mods/songs/cyean/Voices.ogg
+mods/songs/cyean/Inst.ogg
+mods/songs/cyean/voices.ogg
+mods/songs/cyean/inst.ogg

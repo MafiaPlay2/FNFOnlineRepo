@@ -1,0 +1,7 @@
+mods/data/monster-printed-pals/config.json
+mods/data/monster-printed-pals/monster-pp-hard.json
+mods/data/monster-printed-pals/monster-printed-pals-mania.json
+mods/songs/monster-printed-pals/Voices.ogg
+mods/songs/monster-printed-pals/Inst.ogg
+mods/songs/monster-printed-pals/voices.ogg
+mods/songs/monster-printed-pals/inst.ogg

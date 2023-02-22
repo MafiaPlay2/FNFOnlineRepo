@@ -1,0 +1,5 @@
+mods/data/therapizer/therapizer-hard.json
+mods/songs/therapizer/Voices.ogg
+mods/songs/therapizer/Inst.ogg
+mods/songs/therapizer/voices.ogg
+mods/songs/therapizer/inst.ogg

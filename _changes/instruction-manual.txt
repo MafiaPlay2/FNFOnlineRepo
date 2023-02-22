@@ -1,0 +1,6 @@
+mods/data/instruction-manual/events.json
+mods/data/instruction-manual/instruction-manual-hard.json
+mods/songs/instruction-manual/Voices.ogg
+mods/songs/instruction-manual/Inst.ogg
+mods/songs/instruction-manual/voices.ogg
+mods/songs/instruction-manual/inst.ogg

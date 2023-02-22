@@ -1,0 +1,9 @@
+mods/data/stupid-nintendo-games/dialogue.json
+mods/data/stupid-nintendo-games/events.json
+mods/data/stupid-nintendo-games/stupid-nintendo-games-easy.json
+mods/data/stupid-nintendo-games/stupid-nintendo-games-hard.json
+mods/data/stupid-nintendo-games/stupid-nintendo-games.json
+mods/songs/stupid-nintendo-games/Voices.ogg
+mods/songs/stupid-nintendo-games/Inst.ogg
+mods/songs/stupid-nintendo-games/voices.ogg
+mods/songs/stupid-nintendo-games/inst.ogg

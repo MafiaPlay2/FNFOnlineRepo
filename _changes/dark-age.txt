@@ -1,0 +1,5 @@
+mods/data/dark-age/dark-age-hard.json
+mods/songs/dark-age/Voices.ogg
+mods/songs/dark-age/Inst.ogg
+mods/songs/dark-age/voices.ogg
+mods/songs/dark-age/inst.ogg

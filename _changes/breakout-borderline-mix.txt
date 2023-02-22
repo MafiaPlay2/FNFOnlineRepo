@@ -1,0 +1,6 @@
+mods/data/breakout-borderline-mix/breakout-borderline-mix-hard.json
+mods/data/breakout-borderline-mix/events.json
+mods/songs/breakout-borderline-mix/Voices.ogg
+mods/songs/breakout-borderline-mix/Inst.ogg
+mods/songs/breakout-borderline-mix/voices.ogg
+mods/songs/breakout-borderline-mix/inst.ogg

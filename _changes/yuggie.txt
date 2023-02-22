@@ -1,0 +1,9 @@
+mods/data/yuggie/config.json
+mods/data/yuggie/events.json
+mods/data/yuggie/yuggie-hard.json
+mods/data/yuggie/yuggie-mania.json
+mods/data/yuggie/yuggie.json
+mods/songs/yuggie/Voices.ogg
+mods/songs/yuggie/Inst.ogg
+mods/songs/yuggie/voices.ogg
+mods/songs/yuggie/inst.ogg

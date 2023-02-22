@@ -1,0 +1,9 @@
+mods/data/strategy-guide/dialogue.json
+mods/data/strategy-guide/events.json
+mods/data/strategy-guide/strategy-guide-easy.json
+mods/data/strategy-guide/strategy-guide-hard.json
+mods/data/strategy-guide/strategy-guide.json
+mods/songs/strategy-guide/Voices.ogg
+mods/songs/strategy-guide/Inst.ogg
+mods/songs/strategy-guide/voices.ogg
+mods/songs/strategy-guide/inst.ogg

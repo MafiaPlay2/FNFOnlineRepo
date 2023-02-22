@@ -1,0 +1,10 @@
+mods/data/breakout/breakout-easy.json
+mods/data/breakout/breakout-hard.json
+mods/data/breakout/breakout.json
+mods/data/breakout/dialogue.json
+mods/data/breakout/dialogueend.json
+mods/data/breakout/events.json
+mods/songs/breakout/Voices.ogg
+mods/songs/breakout/Inst.ogg
+mods/songs/breakout/voices.ogg
+mods/songs/breakout/inst.ogg

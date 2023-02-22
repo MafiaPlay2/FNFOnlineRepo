@@ -1,0 +1,5 @@
+mods/data/holy-fuck/holy-fuck-hard.json
+mods/songs/holy-fuck/Voices.ogg
+mods/songs/holy-fuck/Inst.ogg
+mods/songs/holy-fuck/voices.ogg
+mods/songs/holy-fuck/inst.ogg

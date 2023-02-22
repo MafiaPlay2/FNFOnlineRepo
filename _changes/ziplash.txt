@@ -1,0 +1,5 @@
+mods/data/ziplash/ziplash-hard.json
+mods/songs/ziplash/Voices.ogg
+mods/songs/ziplash/Inst.ogg
+mods/songs/ziplash/voices.ogg
+mods/songs/ziplash/inst.ogg

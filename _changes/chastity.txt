@@ -1,0 +1,5 @@
+mods/data/chastity/chastity-hard.json
+mods/songs/chastity/Voices.ogg
+mods/songs/chastity/Inst.ogg
+mods/songs/chastity/voices.ogg
+mods/songs/chastity/inst.ogg
