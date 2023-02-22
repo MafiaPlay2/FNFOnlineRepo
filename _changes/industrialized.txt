@@ -1,4 +1,4 @@
-mods/data/industrialized/industrialized-normal.json
+mods/data/industrialized/industrialized.json
 mods/songs/industrialized/Voices.ogg
 mods/songs/industrialized/Inst.ogg
 mods/songs/industrialized/voices.ogg

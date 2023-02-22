@@ -1,4 +1,3 @@
-mods/data/her/her-normal.json
 mods/data/her/her.json
 mods/songs/her/Voices.ogg
 mods/songs/her/Inst.ogg

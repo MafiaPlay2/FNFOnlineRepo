@@ -1,4 +1,4 @@
-mods/data/them/them-normal.json
+mods/data/them/them.json
 mods/songs/them/Voices.ogg
 mods/songs/them/Inst.ogg
 mods/songs/them/voices.ogg

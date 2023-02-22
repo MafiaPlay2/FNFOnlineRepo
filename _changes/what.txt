@@ -1,6 +1,5 @@
 mods/data/what/dialogue.json
-mods/data/what/what-erect.json
-mods/data/what/what-normal.json
+mods/data/what/what.json
 mods/songs/what/Voices.ogg
 mods/songs/what/Inst.ogg
 mods/songs/what/voices.ogg

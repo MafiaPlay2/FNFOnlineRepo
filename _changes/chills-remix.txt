@@ -1,0 +1,5 @@
+mods/data/chills-remix/chills-remix.json
+mods/songs/chills-remix/Voices.ogg
+mods/songs/chills-remix/Inst.ogg
+mods/songs/chills-remix/voices.ogg
+mods/songs/chills-remix/inst.ogg

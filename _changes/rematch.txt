@@ -1,4 +1,4 @@
-mods/data/rematch/rematch-normal.json
+mods/data/rematch/rematch.json
 mods/songs/rematch/Voices.ogg
 mods/songs/rematch/Inst.ogg
 mods/songs/rematch/voices.ogg

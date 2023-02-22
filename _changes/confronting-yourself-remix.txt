@@ -1,0 +1,6 @@
+mods/data/confronting-yourself-remix/confronting-yourself-remix.json
+mods/data/confronting-yourself-remix/events.json
+mods/songs/confronting-yourself-remix/Voices.ogg
+mods/songs/confronting-yourself-remix/Inst.ogg
+mods/songs/confronting-yourself-remix/voices.ogg
+mods/songs/confronting-yourself-remix/inst.ogg

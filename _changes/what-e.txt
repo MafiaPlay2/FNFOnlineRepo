@@ -1,5 +1,4 @@
-mods/data/what-e/dialogue.json
-mods/data/what-e/what-e-normal.json
+mods/data/what-e/what-e.json
 mods/songs/what-e/Voices.ogg
 mods/songs/what-e/Inst.ogg
 mods/songs/what-e/voices.ogg

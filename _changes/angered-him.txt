@@ -1,4 +1,3 @@
-mods/data/angered-him/angered-him-erect.json
 mods/data/angered-him/angered-him.json
 mods/data/angered-him/dialogue.json
 mods/songs/angered-him/Voices.ogg
