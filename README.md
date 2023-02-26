@@ -8,3 +8,4 @@
 - [Aside](https://gamebanana.com/mods/422319)
 - [Printed Pals](https://gamebanana.com/mods/410651)
 - [VS Stev Harvey](https://gamebanana.com/mods/425851)
+- [VS Scott The Woz](https://gamebanana.com/mods/305075)

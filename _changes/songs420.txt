@@ -1,24 +1,9 @@
 mods/weeks/Vs Him.json
 mods/weeks/Todds FNF mod.json
 mods/weeks/Non-Stop Debate.json
-mods/weeks/a.json
-mods/weeks/b.json
-mods/weeks/c.json
-mods/weeks/d.json
-mods/weeks/e.json
-mods/weeks/f.json
-mods/weeks/g.json
-mods/weeks/h.json
-mods/weeks/i.json
-mods/weeks/k.json
-mods/weeks/l.json
-mods/weeks/m.json
-mods/weeks/n.json
-mods/weeks/o.json
-mods/weeks/p.json
-mods/weeks/r.json
-mods/weeks/s.json
-mods/weeks/t.json
-mods/weeks/w.json
-mods/weeks/y.json
-mods/weeks/z.json
+mods/weeks/Krusty karoling.json
+mods/weeks/Funky Doge Friday.json
+mods/weeks/Aside.json
+mods/weeks/Printed Pals.json
+mods/weeks/Vs Stev Harvey.json
+mods/weeks/Vs Scott the Woz.json
