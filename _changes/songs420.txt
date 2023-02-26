@@ -7,3 +7,4 @@ mods/weeks/Aside.json
 mods/weeks/Printed Pals.json
 mods/weeks/Vs Stev Harvey.json
 mods/weeks/Vs Scott the Woz.json
+mods/weeks/Vs Skiwi.json
