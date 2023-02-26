@@ -1,0 +1,8 @@
+mods/data/s.o.s/events.json
+mods/data/s.o.s/s.o.s-easy.json
+mods/data/s.o.s/s.o.s-hard.json
+mods/data/s.o.s/s.o.s.json
+mods/songs/s.o.s/Voices.ogg
+mods/songs/s.o.s/Inst.ogg
+mods/songs/s.o.s/voices.ogg
+mods/songs/s.o.s/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/tutorial-fmix/events.json
+mods/data/tutorial-fmix/tutorial-fmix-hard.json
+mods/songs/tutorial-fmix/Voices.ogg
+mods/songs/tutorial-fmix/Inst.ogg
+mods/songs/tutorial-fmix/voices.ogg
+mods/songs/tutorial-fmix/inst.ogg

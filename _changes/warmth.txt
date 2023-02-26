@@ -1,0 +1,8 @@
+mods/data/warmth/events.json
+mods/data/warmth/warmth-easy.json
+mods/data/warmth/warmth-hard.json
+mods/data/warmth/warmth.json
+mods/songs/warmth/Voices.ogg
+mods/songs/warmth/Inst.ogg
+mods/songs/warmth/voices.ogg
+mods/songs/warmth/inst.ogg
