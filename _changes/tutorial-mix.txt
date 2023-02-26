@@ -1,0 +1,4 @@
+mods/data/tutorial-mix/events.json
+mods/data/tutorial-mix/tutorial-mix-hard.json
+mods/songs/tutorial-mix/Inst.ogg
+mods/songs/tutorial-mix/inst.ogg

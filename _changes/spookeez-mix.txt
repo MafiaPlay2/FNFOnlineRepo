@@ -1,0 +1,6 @@
+mods/data/spookeez-mix/events.json
+mods/data/spookeez-mix/spookeez-mix-hard.json
+mods/songs/spookeez-mix/Voices.ogg
+mods/songs/spookeez-mix/Inst.ogg
+mods/songs/spookeez-mix/voices.ogg
+mods/songs/spookeez-mix/inst.ogg

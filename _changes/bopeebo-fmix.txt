@@ -1,6 +1,0 @@
-mods/data/bopeebo-fmix/bopeebo-fmix-hard.json
-mods/data/bopeebo-fmix/events.json
-mods/songs/bopeebo-fmix/Voices.ogg
-mods/songs/bopeebo-fmix/Inst.ogg
-mods/songs/bopeebo-fmix/voices.ogg
-mods/songs/bopeebo-fmix/inst.ogg

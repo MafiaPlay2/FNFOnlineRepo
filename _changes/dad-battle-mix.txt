@@ -1,0 +1,6 @@
+mods/data/dad-battle-mix/dad-battle-mix-hard.json
+mods/data/dad-battle-mix/events.json
+mods/songs/dad-battle-mix/Voices.ogg
+mods/songs/dad-battle-mix/Inst.ogg
+mods/songs/dad-battle-mix/voices.ogg
+mods/songs/dad-battle-mix/inst.ogg
