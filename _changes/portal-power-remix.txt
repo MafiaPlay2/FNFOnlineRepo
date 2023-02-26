@@ -1,5 +1,0 @@
-mods/data/portal-power-remix/portal-power-remix.json
-mods/songs/portal-power-remix/Voices.ogg
-mods/songs/portal-power-remix/Inst.ogg
-mods/songs/portal-power-remix/voices.ogg
-mods/songs/portal-power-remix/inst.ogg

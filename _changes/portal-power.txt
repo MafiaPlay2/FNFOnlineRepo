@@ -1,5 +1,0 @@
-mods/data/portal-power/portal-power-normal.json
-mods/songs/portal-power/Voices.ogg
-mods/songs/portal-power/Inst.ogg
-mods/songs/portal-power/voices.ogg
-mods/songs/portal-power/inst.ogg

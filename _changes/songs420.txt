@@ -1,3 +1,4 @@
+mods/weeks/Vs Him.json
 mods/weeks/a.json
 mods/weeks/b.json
 mods/weeks/c.json
