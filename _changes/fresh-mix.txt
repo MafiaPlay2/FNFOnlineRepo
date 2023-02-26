@@ -1,0 +1,6 @@
+mods/data/fresh-mix/events.json
+mods/data/fresh-mix/fresh-mix-hard.json
+mods/songs/fresh-mix/Voices.ogg
+mods/songs/fresh-mix/Inst.ogg
+mods/songs/fresh-mix/voices.ogg
+mods/songs/fresh-mix/inst.ogg
