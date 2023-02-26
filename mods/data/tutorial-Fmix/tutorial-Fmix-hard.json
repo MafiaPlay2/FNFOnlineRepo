@@ -28628,7 +28628,7 @@
 		"chartVersion": "2",
 		"song": "Tutorial-Fmix",
 		"validScore": true,
-		"needsVoices": true,
+		"needsVoices": false,
 		"stage": "stage",
 		"speed": 1.8,
 		"bpm": 100
