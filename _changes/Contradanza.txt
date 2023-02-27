@@ -1,0 +1,6 @@
+mods/data/Contradanza/Contradanza-hard.json
+mods/data/Contradanza/dialogue.json
+mods/songs/Contradanza/Voices.ogg
+mods/songs/Contradanza/Inst.ogg
+mods/songs/Contradanza/voices.ogg
+mods/songs/Contradanza/inst.ogg

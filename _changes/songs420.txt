@@ -10,3 +10,4 @@ mods/weeks/Vs Scott the Woz.json
 mods/weeks/Vs Skiwi.json
 mods/weeks/Funkin Mix.json
 mods/weeks/Livid Lycanthrope.json
+mods/weeks/DD.Dog.json
