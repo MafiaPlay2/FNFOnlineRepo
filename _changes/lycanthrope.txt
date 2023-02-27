@@ -1,0 +1,6 @@
+mods/data/lycanthrope/lycanthrope-expert.json
+mods/data/lycanthrope/lycanthrope.json
+mods/songs/lycanthrope/Voices.ogg
+mods/songs/lycanthrope/Inst.ogg
+mods/songs/lycanthrope/voices.ogg
+mods/songs/lycanthrope/inst.ogg

@@ -11,3 +11,4 @@
 - [VS Scott The Woz](https://gamebanana.com/mods/305075)
 - [VS Skiwi](https://gamebanana.com/mods/371678)
 - [Funkin Mix](https://gamebanana.com/mods/425339)
+- [Livid Lycanthrope](https://gamebanana.com/mods/333876)

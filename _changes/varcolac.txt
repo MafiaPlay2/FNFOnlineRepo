@@ -1,0 +1,6 @@
+mods/data/varcolac/varcolac-expert.json
+mods/data/varcolac/varcolac.json
+mods/songs/varcolac/Voices.ogg
+mods/songs/varcolac/Inst.ogg
+mods/songs/varcolac/voices.ogg
+mods/songs/varcolac/inst.ogg
