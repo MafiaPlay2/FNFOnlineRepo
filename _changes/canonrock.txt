@@ -1,4 +1,5 @@
 mods/data/canonrock/canonrock-hard.json
+mods/data/canonrock/dialogue.json
 mods/songs/canonrock/Voices.ogg
 mods/songs/canonrock/Inst.ogg
 mods/songs/canonrock/voices.ogg
