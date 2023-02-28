@@ -1,0 +1,7 @@
+mods/data/party-panic20/party-panic20-easy.json
+mods/data/party-panic20/party-panic20-hard.json
+mods/data/party-panic20/party-panic20.json
+mods/songs/party-panic20/Voices.ogg
+mods/songs/party-panic20/Inst.ogg
+mods/songs/party-panic20/voices.ogg
+mods/songs/party-panic20/inst.ogg

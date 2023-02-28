@@ -1,0 +1,8 @@
+mods/data/angelly/angelly-easy.json
+mods/data/angelly/angelly-hard.json
+mods/data/angelly/angelly.json
+mods/data/angelly/dialogue.json
+mods/songs/angelly/Voices.ogg
+mods/songs/angelly/Inst.ogg
+mods/songs/angelly/voices.ogg
+mods/songs/angelly/inst.ogg

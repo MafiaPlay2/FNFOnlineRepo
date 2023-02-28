@@ -14,3 +14,5 @@
 - [Livid Lycanthrope](https://gamebanana.com/mods/333876)
 - Vs DD.Dog (Its Private now soo uhhh)
 - [The Blue smiley mod](https://gamebanana.com/mods/429666)
+- [Vs Implasta V1](https://gamebanana.com/mods/424698)
+- [Vs Danke DEMO](https://gamebanana.com/mods/405356)

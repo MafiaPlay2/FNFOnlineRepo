@@ -1,0 +1,7 @@
+mods/data/croissanta/croissanta-easy.json
+mods/data/croissanta/croissanta-hard.json
+mods/data/croissanta/croissanta.json
+mods/songs/croissanta/Voices.ogg
+mods/songs/croissanta/Inst.ogg
+mods/songs/croissanta/voices.ogg
+mods/songs/croissanta/inst.ogg

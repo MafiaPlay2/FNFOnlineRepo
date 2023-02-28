@@ -1,0 +1,6 @@
+mods/data/pubendorf/events.json
+mods/data/pubendorf/pubendorf-hard.json
+mods/songs/pubendorf/Voices.ogg
+mods/songs/pubendorf/Inst.ogg
+mods/songs/pubendorf/voices.ogg
+mods/songs/pubendorf/inst.ogg

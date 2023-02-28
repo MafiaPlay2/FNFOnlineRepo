@@ -12,3 +12,5 @@ mods/weeks/Funkin Mix.json
 mods/weeks/Livid Lycanthrope.json
 mods/weeks/DD.Dog.json
 mods/weeks/The Blue Smiley Mod.json
+mods/weeks/Vs implasta.json
+mods/weeks/Vs Danke.json
