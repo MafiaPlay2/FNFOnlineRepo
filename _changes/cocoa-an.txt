@@ -1,0 +1,6 @@
+mods/data/cocoa-an/cocoa-an-erect.json
+mods/data/cocoa-an/cocoa-an-impotent.json
+mods/songs/cocoa-an/Voices.ogg
+mods/songs/cocoa-an/Inst.ogg
+mods/songs/cocoa-an/voices.ogg
+mods/songs/cocoa-an/inst.ogg

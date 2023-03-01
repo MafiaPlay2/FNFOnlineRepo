@@ -14,3 +14,4 @@ mods/weeks/DD.Dog.json
 mods/weeks/The Blue Smiley Mod.json
 mods/weeks/Vs implasta.json
 mods/weeks/Vs Danke.json
+mods/weeks/Animania.json

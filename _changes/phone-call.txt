@@ -1,0 +1,7 @@
+mods/data/phone-call/events.json
+mods/data/phone-call/phone-call-hard.json
+mods/data/phone-call/phone-call.json
+mods/songs/phone-call/Voices.ogg
+mods/songs/phone-call/Inst.ogg
+mods/songs/phone-call/voices.ogg
+mods/songs/phone-call/inst.ogg

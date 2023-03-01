@@ -1,0 +1,6 @@
+mods/data/eggnog-an/eggnog-an-erect.json
+mods/data/eggnog-an/eggnog-an-impotent.json
+mods/songs/eggnog-an/Voices.ogg
+mods/songs/eggnog-an/Inst.ogg
+mods/songs/eggnog-an/voices.ogg
+mods/songs/eggnog-an/inst.ogg
