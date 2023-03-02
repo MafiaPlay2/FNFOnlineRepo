@@ -1,0 +1,8 @@
+mods/data/feast-for-the-eye/events.json
+mods/data/feast-for-the-eye/feast-for-the-eye-easy.json
+mods/data/feast-for-the-eye/feast-for-the-eye-hard.json
+mods/data/feast-for-the-eye/feast-for-the-eye.json
+mods/songs/feast-for-the-eye/Voices.ogg
+mods/songs/feast-for-the-eye/Inst.ogg
+mods/songs/feast-for-the-eye/voices.ogg
+mods/songs/feast-for-the-eye/inst.ogg

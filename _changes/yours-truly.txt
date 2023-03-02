@@ -1,0 +1,8 @@
+mods/data/yours-truly/events.json
+mods/data/yours-truly/yours-truly-easy.json
+mods/data/yours-truly/yours-truly-hard.json
+mods/data/yours-truly/yours-truly.json
+mods/songs/yours-truly/Voices.ogg
+mods/songs/yours-truly/Inst.ogg
+mods/songs/yours-truly/voices.ogg
+mods/songs/yours-truly/inst.ogg

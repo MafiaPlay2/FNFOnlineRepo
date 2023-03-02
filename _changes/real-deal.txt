@@ -1,0 +1,8 @@
+mods/data/real-deal/events.json
+mods/data/real-deal/real-deal-easy.json
+mods/data/real-deal/real-deal-hard.json
+mods/data/real-deal/real-deal.json
+mods/songs/real-deal/Voices.ogg
+mods/songs/real-deal/Inst.ogg
+mods/songs/real-deal/voices.ogg
+mods/songs/real-deal/inst.ogg

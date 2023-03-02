@@ -1,0 +1,8 @@
+mods/data/game-time/events.json
+mods/data/game-time/game-time-easy.json
+mods/data/game-time/game-time-hard.json
+mods/data/game-time/game-time.json
+mods/songs/game-time/Voices.ogg
+mods/songs/game-time/Inst.ogg
+mods/songs/game-time/voices.ogg
+mods/songs/game-time/inst.ogg

@@ -17,3 +17,4 @@
 - [Vs Implasta V1](https://gamebanana.com/mods/424698)
 - [Vs Danke DEMO](https://gamebanana.com/mods/405356)
 - [Animania](https://gamebanana.com/wips/74234)
+- [Artistic Altitude](https://gamebanana.com/mods/339298)

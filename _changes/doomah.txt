@@ -1,0 +1,8 @@
+mods/data/doomah/doomah-easy.json
+mods/data/doomah/doomah-hard.json
+mods/data/doomah/doomah.json
+mods/data/doomah/events.json
+mods/songs/doomah/Voices.ogg
+mods/songs/doomah/Inst.ogg
+mods/songs/doomah/voices.ogg
+mods/songs/doomah/inst.ogg
