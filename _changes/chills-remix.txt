@@ -1,5 +1,23 @@
 mods/data/chills-remix/chills-remix.json
+mods/data/chills-remix/mod.txt
+mods/Him/characters/herplayable.json
+mods/Him/characters/spoopy.json
+mods/Him/stages/spookingoffrn.json
+mods/Him/stages/spookingoffrn.lua
+mods/Him/images/characters/HER.png
+mods/Him/images/characters/HER.xml
+mods/Him/images/characters/spoopy.png
+mods/Him/images/characters/spoopy.xml
+mods/Him/images/stages/spooky shit/ground.png
+mods/Him/images/stages/spooky shit/background.png
+mods/Him/images/stages/spooky shit/midground.png
+mods/Him/images/stages/spooky shit/carpet.png
+mods/Him/images/stages/spooky shit/foreground.png
+mods/Him/images/stages/spooky shit/backLight.png
+mods/Him/images/stages/spooky shit/backLight.xml
+mods/Him/images/stages/spooky shit/backTorch.png
+mods/Him/images/stages/spooky shit/backTorch.xml
 mods/songs/chills-remix/Voices.ogg
-mods/songs/chills-remix/Inst.ogg
 mods/songs/chills-remix/voices.ogg
+mods/songs/chills-remix/Inst.ogg
 mods/songs/chills-remix/inst.ogg

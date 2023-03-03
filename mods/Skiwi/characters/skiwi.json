@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-41,
+				297
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "skiwi idle"
+		},
+		{
+			"offsets": [
+				38,
+				264
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "skiwi left"
+		},
+		{
+			"offsets": [
+				-52,
+				161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "skiwi down"
+		},
+		{
+			"offsets": [
+				-54,
+				315
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "skiwi up"
+		},
+		{
+			"offsets": [
+				-103,
+				289
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "skiwi right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skiwi_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "skiwi",
+	"flip_x": false,
+	"healthbar_colors": [
+		44,
+		114,
+		148
+	],
+	"camera_position": [
+		90,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

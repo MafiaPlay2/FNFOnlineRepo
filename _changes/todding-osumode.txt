@@ -1,0 +1,11 @@
+mods/data/todding/events.json
+mods/data/todding/mod.txt
+mods/data/todding/todding.json
+mods/Todd/stages/todd.json
+mods/Todd/stages/todd.lua
+mods/Todd/custom_events/badapplelol.lua
+mods/Todd/custom_events/Black Bars.lua
+mods/songs/todding/Voices.ogg
+mods/songs/todding/voices.ogg
+mods/songs/todding/Inst.ogg
+mods/songs/todding/inst.ogg

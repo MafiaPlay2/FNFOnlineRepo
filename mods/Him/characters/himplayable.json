@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": " idle"
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": " down"
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": " up"
+		},
+		{
+			"offsets": [
+				82,
+				-400
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": " missdown"
+		},
+		{
+			"offsets": [
+				82,
+				-400
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": " missup"
+		},
+		{
+			"offsets": [
+				82,
+				-400
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "fuck",
+			"indices": [],
+			"name": " FUCK"
+		},
+		{
+			"offsets": [
+				82,
+				-400
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "hey",
+			"indices": [],
+			"name": " URETHA"
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "dead",
+			"indices": [],
+			"name": " dead"
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": " left"
+		},
+		{
+			"offsets": [
+				82,
+				-400
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": " missleft"
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": " right"
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": " missright"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Him3",
+	"position": [
+		120,
+		80
+	],
+	"healthicon": "him",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		260,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

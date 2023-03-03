@@ -1,0 +1,10 @@
+mods/data/ziplash/mod.txt
+mods/data/ziplash/ziplash-hard.json
+mods/Scott/stages/out.json
+mods/Scott/stages/out.lua
+mods/Scott/scripts/easyunderlay.lua
+mods/Scott/scripts/hey.lua
+mods/songs/ziplash/Voices.ogg
+mods/songs/ziplash/voices.ogg
+mods/songs/ziplash/Inst.ogg
+mods/songs/ziplash/inst.ogg

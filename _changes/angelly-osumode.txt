@@ -1,0 +1,15 @@
+mods/data/angelly/angelly-easy.json
+mods/data/angelly/angelly-hard.json
+mods/data/angelly/angelly.json
+mods/data/angelly/mod.txt
+mods/Danke/stages/DessertShop.json
+mods/Danke/stages/DessertShop.lua
+mods/Danke/scripts/gameover-otherchars.lua
+mods/Danke/scripts/HealthDrain.lua
+mods/Danke/scripts/movecam.lua
+mods/Danke/scripts/particleAndFX.lua
+mods/Danke/scripts/spaceToTaunt.lua
+mods/songs/angelly/Voices.ogg
+mods/songs/angelly/voices.ogg
+mods/songs/angelly/Inst.ogg
+mods/songs/angelly/inst.ogg

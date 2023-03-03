@@ -1,0 +1,13 @@
+mods/data/breakout-borderline-mix/breakout-borderline-mix-hard.json
+mods/data/breakout-borderline-mix/events.json
+mods/data/breakout-borderline-mix/mod.txt
+mods/Scott/stages/scott-room.json
+mods/Scott/stages/scott-room.lua
+mods/Scott/custom_events/flash.lua
+mods/Scott/custom_events/defaultcamzoom.lua
+mods/Scott/scripts/easyunderlay.lua
+mods/Scott/scripts/hey.lua
+mods/songs/breakout-borderline-mix/Voices.ogg
+mods/songs/breakout-borderline-mix/voices.ogg
+mods/songs/breakout-borderline-mix/Inst.ogg
+mods/songs/breakout-borderline-mix/inst.ogg

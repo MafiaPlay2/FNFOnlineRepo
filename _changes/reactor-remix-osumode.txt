@@ -1,0 +1,8 @@
+mods/data/reactor-remix/mod.txt
+mods/data/reactor-remix/reactor-remix-hard.json
+mods/Him/stages/reactor.json
+mods/Him/stages/reactor.lua
+mods/songs/reactor-remix/Voices.ogg
+mods/songs/reactor-remix/voices.ogg
+mods/songs/reactor-remix/Inst.ogg
+mods/songs/reactor-remix/inst.ogg

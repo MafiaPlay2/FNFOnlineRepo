@@ -1,0 +1,15 @@
+mods/data/croissanta/croissanta-easy.json
+mods/data/croissanta/croissanta-hard.json
+mods/data/croissanta/croissanta.json
+mods/data/croissanta/mod.txt
+mods/Danke/stages/DessertShop.json
+mods/Danke/stages/DessertShop.lua
+mods/Danke/scripts/gameover-otherchars.lua
+mods/Danke/scripts/HealthDrain.lua
+mods/Danke/scripts/movecam.lua
+mods/Danke/scripts/particleAndFX.lua
+mods/Danke/scripts/spaceToTaunt.lua
+mods/songs/croissanta/Voices.ogg
+mods/songs/croissanta/voices.ogg
+mods/songs/croissanta/Inst.ogg
+mods/songs/croissanta/inst.ogg

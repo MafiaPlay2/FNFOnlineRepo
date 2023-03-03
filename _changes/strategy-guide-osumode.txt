@@ -1,0 +1,14 @@
+mods/data/strategy-guide/events.json
+mods/data/strategy-guide/mod.txt
+mods/data/strategy-guide/strategy-guide-easy.json
+mods/data/strategy-guide/strategy-guide-hard.json
+mods/data/strategy-guide/strategy-guide.json
+mods/Scott/stages/scott-room.json
+mods/Scott/stages/scott-room.lua
+mods/Scott/custom_events/flash.lua
+mods/Scott/scripts/easyunderlay.lua
+mods/Scott/scripts/hey.lua
+mods/songs/strategy-guide/Voices.ogg
+mods/songs/strategy-guide/voices.ogg
+mods/songs/strategy-guide/Inst.ogg
+mods/songs/strategy-guide/inst.ogg

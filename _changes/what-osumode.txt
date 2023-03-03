@@ -1,0 +1,8 @@
+mods/data/what/mod.txt
+mods/data/what/what.json
+mods/Him/stages/what.json
+mods/Him/stages/what.lua
+mods/songs/what/Voices.ogg
+mods/songs/what/voices.ogg
+mods/songs/what/Inst.ogg
+mods/songs/what/inst.ogg

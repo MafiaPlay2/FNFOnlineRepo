@@ -1,5 +1,17 @@
+mods/data/puppeteer/mod.txt
 mods/data/puppeteer/puppeteer.json
+mods/Debate/characters/midori.json
+mods/Debate/stages/facility.json
+mods/Debate/stages/facility.lua
+mods/Debate/images/characters/ITO.png
+mods/Debate/images/characters/ITO.xml
+mods/Debate/custom_events/Camera Flash.lua
+mods/Debate/scripts/camNoteMovement.lua
+mods/Debate/scripts/customUI.lua
+mods/Debate/images/midoribg/sky.png
+mods/Debate/images/midoribg/buildings.png
+mods/Debate/images/midoribg/ground.png
 mods/songs/puppeteer/Voices.ogg
-mods/songs/puppeteer/Inst.ogg
 mods/songs/puppeteer/voices.ogg
+mods/songs/puppeteer/Inst.ogg
 mods/songs/puppeteer/inst.ogg

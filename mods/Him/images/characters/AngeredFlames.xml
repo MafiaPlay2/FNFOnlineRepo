@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AngeredFlames.png"><SubTexture name="AngeredFlames idle0000" x="0" y="0" width="289" height="533" frameX="-28" frameY="0" frameWidth="317" frameHeight="534" />
+<SubTexture name="AngeredFlames idle0001" x="0" y="533" width="302" height="480" frameX="-11" frameY="-43" frameWidth="317" frameHeight="534" />
+<SubTexture name="AngeredFlames idle0002" x="302" y="533" width="305" height="478" frameX="-12" frameY="-49" frameWidth="317" frameHeight="534" />
+<SubTexture name="AngeredFlames idle0003" x="583" y="0" width="300" height="507" frameX="0" frameY="-27" frameWidth="317" frameHeight="534" />
+<SubTexture name="AngeredFlames idle0004" x="883" y="0" width="314" height="507" frameX="-3" frameY="-27" frameWidth="317" frameHeight="534" />
+<SubTexture name="AngeredFlames idle0005" x="289" y="0" width="294" height="519" frameX="-23" frameY="-15" frameWidth="317" frameHeight="534" />
+</TextureAtlas>

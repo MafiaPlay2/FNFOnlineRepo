@@ -1,0 +1,10 @@
+mods/data/third-degree/mod.txt
+mods/data/third-degree/third-degree-hard.json
+mods/Scott/stages/manor.json
+mods/Scott/stages/manor.lua
+mods/Scott/scripts/easyunderlay.lua
+mods/Scott/scripts/hey.lua
+mods/songs/third-degree/Voices.ogg
+mods/songs/third-degree/voices.ogg
+mods/songs/third-degree/Inst.ogg
+mods/songs/third-degree/inst.ogg

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bulldish idle"
+		},
+		{
+			"offsets": [
+				95,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bulldish left"
+		},
+		{
+			"offsets": [
+				30,
+				-95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bulldish down"
+		},
+		{
+			"offsets": [
+				-15,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bulldish up"
+		},
+		{
+			"offsets": [
+				15,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bulldish right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bulldish",
+	"position": [
+		50,
+		360
+	],
+	"healthicon": "bulldish",
+	"flip_x": false,
+	"healthbar_colors": [
+		185,
+		176,
+		171
+	],
+	"camera_position": [
+		50,
+		150
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.7
+}

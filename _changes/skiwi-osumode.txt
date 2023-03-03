@@ -1,0 +1,10 @@
+mods/data/skiwi/mod.txt
+mods/data/skiwi/skiwi-easy.json
+mods/data/skiwi/skiwi-hard.json
+mods/data/skiwi/skiwi.json
+mods/Skiwi/stages/skiwi.json
+mods/Skiwi/stages/skiwi.lua
+mods/songs/skiwi/Voices.ogg
+mods/songs/skiwi/voices.ogg
+mods/songs/skiwi/Inst.ogg
+mods/songs/skiwi/inst.ogg

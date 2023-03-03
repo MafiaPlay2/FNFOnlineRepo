@@ -1,0 +1,16 @@
+mods/data/blackened/blackened-despair.json
+mods/data/blackened/blackened-placeholder.json
+mods/data/blackened/blackened.json
+mods/data/blackened/events.json
+mods/data/blackened/mod.txt
+mods/Debate/stages/trialgrounds.json
+mods/Debate/stages/trialgrounds.lua
+mods/Debate/custom_events/Camera Flash.lua
+mods/Debate/custom_events/Change Subtitles.lua
+mods/Debate/scripts/camNoteMovement.lua
+mods/Debate/scripts/customUI.lua
+mods/Debate/fonts/goodbyeDespair.ttf
+mods/songs/blackened/Voices.ogg
+mods/songs/blackened/voices.ogg
+mods/songs/blackened/Inst.ogg
+mods/songs/blackened/inst.ogg

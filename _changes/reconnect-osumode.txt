@@ -1,0 +1,8 @@
+mods/data/reconnect/mod.txt
+mods/data/reconnect/reconnect-easy.json
+mods/data/reconnect/reconnect-hard.json
+mods/data/reconnect/reconnect.json
+mods/songs/reconnect/Voices.ogg
+mods/songs/reconnect/voices.ogg
+mods/songs/reconnect/Inst.ogg
+mods/songs/reconnect/inst.ogg

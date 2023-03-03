@@ -1,0 +1,37 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "center",
+	"scale": 1.25,
+	"image": "GfProfiles",
+	"animations": [
+		{
+			"loop_offsets": [
+				-3,
+				-27
+			],
+			"anim": "flattered",
+			"idle_offsets": [
+				-3,
+				-27
+			],
+			"loop_name": "GfProfFlattery0",
+			"idle_name": "GfProfFlattery0003"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "embarassed",
+			"idle_offsets": [
+				0,
+				-41
+			],
+			"loop_name": "GfProfEmbarrased0",
+			"idle_name": "GfProfEmbarrased0"
+		}
+	]
+}

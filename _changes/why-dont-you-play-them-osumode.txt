@@ -1,0 +1,13 @@
+mods/data/why-dont-you-play-them/events.json
+mods/data/why-dont-you-play-them/mod.txt
+mods/data/why-dont-you-play-them/why-dont-you-play-them-easy.json
+mods/data/why-dont-you-play-them/why-dont-you-play-them-hard.json
+mods/data/why-dont-you-play-them/why-dont-you-play-them.json
+mods/Scott/stages/scott-room.json
+mods/Scott/stages/scott-room.lua
+mods/Scott/scripts/easyunderlay.lua
+mods/Scott/scripts/hey.lua
+mods/songs/why-dont-you-play-them/Voices.ogg
+mods/songs/why-dont-you-play-them/voices.ogg
+mods/songs/why-dont-you-play-them/Inst.ogg
+mods/songs/why-dont-you-play-them/inst.ogg

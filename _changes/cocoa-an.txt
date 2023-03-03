@@ -1,6 +1,26 @@
 mods/data/cocoa-an/cocoa-an-erect.json
 mods/data/cocoa-an/cocoa-an-impotent.json
+mods/data/cocoa-an/hui.lua
+mods/data/cocoa-an/mod.txt
+mods/Animania/characters/amTakeBF-Christmas.json
+mods/Animania/characters/amTakeParents-christmas.json
+mods/Animania/characters/amTakeGF-Christmas.json
+mods/Animania/stages/christ.json
+mods/Animania/stages/christ.lua
+mods/Animania/images/characters/amtake/week5/AnimaniaBF-Christmas.png
+mods/Animania/images/characters/amtake/week5/AnimaniaBF-Christmas.xml
+mods/Animania/images/characters/amtake/week5/AMparents-christmas1.png
+mods/Animania/images/characters/amtake/week5/AMparents-christmas1.xml
+mods/Animania/images/characters/amtake/week5/AnimaniaGFXmas.png
+mods/Animania/images/characters/amtake/week5/AnimaniaGFXmas.xml
+mods/Animania/custom_notetypes/Duble Note.lua
+mods/Animania/custom_notetypes/NoPress.lua
+mods/Animania/scripts/bruhFile.lua
+mods/Animania/images/mall_back.png
+mods/Animania/images/JesusLight.png
+mods/Animania/images/DUBLENOTE_assets.png
+mods/Animania/images/DUBLENOTE_assets.xml
 mods/songs/cocoa-an/Voices.ogg
-mods/songs/cocoa-an/Inst.ogg
 mods/songs/cocoa-an/voices.ogg
+mods/songs/cocoa-an/Inst.ogg
 mods/songs/cocoa-an/inst.ogg

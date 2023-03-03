@@ -1,0 +1,9 @@
+mods/data/fun-n-games/events.json
+mods/data/fun-n-games/fun-n-games-easy.json
+mods/data/fun-n-games/fun-n-games-hard.json
+mods/data/fun-n-games/fun-n-games.json
+mods/data/fun-n-games/mod.txt
+mods/songs/fun-n-games/Voices.ogg
+mods/songs/fun-n-games/voices.ogg
+mods/songs/fun-n-games/Inst.ogg
+mods/songs/fun-n-games/inst.ogg

@@ -1,7 +1,47 @@
 mods/data/croissanta/croissanta-easy.json
 mods/data/croissanta/croissanta-hard.json
 mods/data/croissanta/croissanta.json
+mods/data/croissanta/mod.txt
+mods/Danke/characters/Xmas_BF.json
+mods/Danke/characters/Xmas_Danke.json
+mods/Danke/characters/Xmas_GF.json
+mods/Danke/stages/DessertShop.json
+mods/Danke/stages/DessertShop.lua
+mods/Danke/images/characters/Xmas_BF.png
+mods/Danke/images/characters/Xmas_BF.xml
+mods/Danke/images/characters/Xmas_Danke.png
+mods/Danke/images/characters/Xmas_Danke.xml
+mods/Danke/images/characters/Xmas_GF.png
+mods/Danke/images/characters/Xmas_GF.xml
+mods/Danke/scripts/gameover-otherchars.lua
+mods/Danke/scripts/HealthDrain.lua
+mods/Danke/scripts/movecam.lua
+mods/Danke/scripts/particleAndFX.lua
+mods/Danke/scripts/spaceToTaunt.lua
+mods/Danke/images/stage/Back wall.png
+mods/Danke/images/stage/Flooring.png
+mods/Danke/images/stage/wall.png
+mods/Danke/images/stage/tables.png
+mods/Danke/images/stage/Guest/Guest starC.png
+mods/Danke/images/stage/Guest/Guest starC.xml
+mods/Danke/images/stage/Guest starA.png
+mods/Danke/images/stage/Guest starA.xml
+mods/Danke/images/stage/Dessert Counter.png
+mods/Danke/images/stage/Guest/Guest starB.png
+mods/Danke/images/stage/Guest/Guest starB.xml
+mods/Danke/images/stage/Guest/Guest starD.png
+mods/Danke/images/stage/Guest/Guest starD.xml
+mods/Danke/images/stage/Guest/Guest starE.png
+mods/Danke/images/stage/Guest/Guest starE.xml
+mods/Danke/images/stage/Guest/Guest starF.png
+mods/Danke/images/stage/Guest/Guest starF.xml
+mods/Danke/images/stage/Lamp.png
+mods/Danke/images/WhiteEdge.png
+mods/Danke/images/Star LightA.png
+mods/Danke/images/Star LightA.xml
+mods/Danke/images/RETRY.png
+mods/Danke/images/RETRY.xml
 mods/songs/croissanta/Voices.ogg
-mods/songs/croissanta/Inst.ogg
 mods/songs/croissanta/voices.ogg
+mods/songs/croissanta/Inst.ogg
 mods/songs/croissanta/inst.ogg

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bulldish.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bulldish down0000" x="0" y="0" width="527" height="323" frameX="0" frameY="-6" frameWidth="527" frameHeight="329"/>
+	<SubTexture name="bulldish down0001" x="0" y="0" width="527" height="323" frameX="0" frameY="-6" frameWidth="527" frameHeight="329"/>
+	<SubTexture name="bulldish down0002" x="532" y="0" width="527" height="329"/>
+	<SubTexture name="bulldish down0003" x="532" y="0" width="527" height="329"/>
+	<SubTexture name="bulldish down0004" x="532" y="0" width="527" height="329"/>
+	<SubTexture name="bulldish down0005" x="532" y="0" width="527" height="329"/>
+	<SubTexture name="bulldish down0006" x="532" y="0" width="527" height="329"/>
+	<SubTexture name="bulldish down0007" x="532" y="0" width="527" height="329"/>
+	<SubTexture name="bulldish down0008" x="532" y="0" width="527" height="329"/>
+	<SubTexture name="bulldish down0009" x="532" y="0" width="527" height="329"/>
+	<SubTexture name="bulldish down0010" x="532" y="0" width="527" height="329"/>
+	<SubTexture name="bulldish down0011" x="532" y="0" width="527" height="329"/>
+	<SubTexture name="bulldish down0012" x="532" y="0" width="527" height="329"/>
+	<SubTexture name="bulldish down0013" x="532" y="0" width="527" height="329"/>
+	<SubTexture name="bulldish idle0000" x="1064" y="0" width="413" height="450" frameX="0" frameY="-9" frameWidth="413" frameHeight="460"/>
+	<SubTexture name="bulldish idle0001" x="1064" y="0" width="413" height="450" frameX="0" frameY="-9" frameWidth="413" frameHeight="460"/>
+	<SubTexture name="bulldish idle0002" x="1482" y="0" width="413" height="452" frameX="0" frameY="-7" frameWidth="413" frameHeight="460"/>
+	<SubTexture name="bulldish idle0003" x="1482" y="0" width="413" height="452" frameX="0" frameY="-7" frameWidth="413" frameHeight="460"/>
+	<SubTexture name="bulldish idle0004" x="0" y="457" width="413" height="460"/>
+	<SubTexture name="bulldish idle0005" x="0" y="457" width="413" height="460"/>
+	<SubTexture name="bulldish idle0006" x="418" y="457" width="413" height="458" frameX="0" frameY="-1" frameWidth="413" frameHeight="460"/>
+	<SubTexture name="bulldish idle0007" x="418" y="457" width="413" height="458" frameX="0" frameY="-1" frameWidth="413" frameHeight="460"/>
+	<SubTexture name="bulldish idle0008" x="836" y="457" width="413" height="459" frameX="0" frameY="0" frameWidth="413" frameHeight="460"/>
+	<SubTexture name="bulldish idle0009" x="836" y="457" width="413" height="459" frameX="0" frameY="0" frameWidth="413" frameHeight="460"/>
+	<SubTexture name="bulldish idle0010" x="836" y="457" width="413" height="459" frameX="0" frameY="0" frameWidth="413" frameHeight="460"/>
+	<SubTexture name="bulldish idle0011" x="836" y="457" width="413" height="459" frameX="0" frameY="0" frameWidth="413" frameHeight="460"/>
+	<SubTexture name="bulldish idle0012" x="836" y="457" width="413" height="459" frameX="0" frameY="0" frameWidth="413" frameHeight="460"/>
+	<SubTexture name="bulldish idle0013" x="836" y="457" width="413" height="459" frameX="0" frameY="0" frameWidth="413" frameHeight="460"/>
+	<SubTexture name="bulldish left0000" x="1254" y="457" width="565" height="462"/>
+	<SubTexture name="bulldish left0001" x="1254" y="457" width="565" height="462"/>
+	<SubTexture name="bulldish left0002" x="0" y="924" width="558" height="462" frameX="-7" frameY="0" frameWidth="565" frameHeight="462"/>
+	<SubTexture name="bulldish left0003" x="0" y="924" width="558" height="462" frameX="-7" frameY="0" frameWidth="565" frameHeight="462"/>
+	<SubTexture name="bulldish left0004" x="0" y="924" width="558" height="462" frameX="-7" frameY="0" frameWidth="565" frameHeight="462"/>
+	<SubTexture name="bulldish left0005" x="0" y="924" width="558" height="462" frameX="-7" frameY="0" frameWidth="565" frameHeight="462"/>
+	<SubTexture name="bulldish left0006" x="0" y="924" width="558" height="462" frameX="-7" frameY="0" frameWidth="565" frameHeight="462"/>
+	<SubTexture name="bulldish left0007" x="0" y="924" width="558" height="462" frameX="-7" frameY="0" frameWidth="565" frameHeight="462"/>
+	<SubTexture name="bulldish left0008" x="0" y="924" width="558" height="462" frameX="-7" frameY="0" frameWidth="565" frameHeight="462"/>
+	<SubTexture name="bulldish left0009" x="0" y="924" width="558" height="462" frameX="-7" frameY="0" frameWidth="565" frameHeight="462"/>
+	<SubTexture name="bulldish left0010" x="0" y="924" width="558" height="462" frameX="-7" frameY="0" frameWidth="565" frameHeight="462"/>
+	<SubTexture name="bulldish left0011" x="0" y="924" width="558" height="462" frameX="-7" frameY="0" frameWidth="565" frameHeight="462"/>
+	<SubTexture name="bulldish left0012" x="0" y="924" width="558" height="462" frameX="-7" frameY="0" frameWidth="565" frameHeight="462"/>
+	<SubTexture name="bulldish left0013" x="0" y="924" width="558" height="462" frameX="-7" frameY="0" frameWidth="565" frameHeight="462"/>
+	<SubTexture name="bulldish right0000" x="563" y="924" width="610" height="492"/>
+	<SubTexture name="bulldish right0001" x="563" y="924" width="610" height="492"/>
+	<SubTexture name="bulldish right0002" x="1178" y="924" width="603" height="492" frameX="0" frameY="0" frameWidth="610" frameHeight="492"/>
+	<SubTexture name="bulldish right0003" x="1178" y="924" width="603" height="492" frameX="0" frameY="0" frameWidth="610" frameHeight="492"/>
+	<SubTexture name="bulldish right0004" x="1178" y="924" width="603" height="492" frameX="0" frameY="0" frameWidth="610" frameHeight="492"/>
+	<SubTexture name="bulldish right0005" x="1178" y="924" width="603" height="492" frameX="0" frameY="0" frameWidth="610" frameHeight="492"/>
+	<SubTexture name="bulldish right0006" x="1178" y="924" width="603" height="492" frameX="0" frameY="0" frameWidth="610" frameHeight="492"/>
+	<SubTexture name="bulldish right0007" x="1178" y="924" width="603" height="492" frameX="0" frameY="0" frameWidth="610" frameHeight="492"/>
+	<SubTexture name="bulldish right0008" x="1178" y="924" width="603" height="492" frameX="0" frameY="0" frameWidth="610" frameHeight="492"/>
+	<SubTexture name="bulldish right0009" x="1178" y="924" width="603" height="492" frameX="0" frameY="0" frameWidth="610" frameHeight="492"/>
+	<SubTexture name="bulldish right0010" x="1178" y="924" width="603" height="492" frameX="0" frameY="0" frameWidth="610" frameHeight="492"/>
+	<SubTexture name="bulldish right0011" x="1178" y="924" width="603" height="492" frameX="0" frameY="0" frameWidth="610" frameHeight="492"/>
+	<SubTexture name="bulldish right0012" x="1178" y="924" width="603" height="492" frameX="0" frameY="0" frameWidth="610" frameHeight="492"/>
+	<SubTexture name="bulldish right0013" x="1178" y="924" width="603" height="492" frameX="0" frameY="0" frameWidth="610" frameHeight="492"/>
+	<SubTexture name="bulldish up0000" x="0" y="1421" width="465" height="514"/>
+	<SubTexture name="bulldish up0001" x="0" y="1421" width="465" height="514"/>
+	<SubTexture name="bulldish up0002" x="470" y="1421" width="465" height="505" frameX="0" frameY="-8" frameWidth="465" frameHeight="514"/>
+	<SubTexture name="bulldish up0003" x="470" y="1421" width="465" height="505" frameX="0" frameY="-8" frameWidth="465" frameHeight="514"/>
+	<SubTexture name="bulldish up0004" x="470" y="1421" width="465" height="505" frameX="0" frameY="-8" frameWidth="465" frameHeight="514"/>
+	<SubTexture name="bulldish up0005" x="470" y="1421" width="465" height="505" frameX="0" frameY="-8" frameWidth="465" frameHeight="514"/>
+	<SubTexture name="bulldish up0006" x="470" y="1421" width="465" height="505" frameX="0" frameY="-8" frameWidth="465" frameHeight="514"/>
+	<SubTexture name="bulldish up0007" x="470" y="1421" width="465" height="505" frameX="0" frameY="-8" frameWidth="465" frameHeight="514"/>
+	<SubTexture name="bulldish up0008" x="470" y="1421" width="465" height="505" frameX="0" frameY="-8" frameWidth="465" frameHeight="514"/>
+	<SubTexture name="bulldish up0009" x="470" y="1421" width="465" height="505" frameX="0" frameY="-8" frameWidth="465" frameHeight="514"/>
+	<SubTexture name="bulldish up0010" x="470" y="1421" width="465" height="505" frameX="0" frameY="-8" frameWidth="465" frameHeight="514"/>
+	<SubTexture name="bulldish up0011" x="470" y="1421" width="465" height="505" frameX="0" frameY="-8" frameWidth="465" frameHeight="514"/>
+	<SubTexture name="bulldish up0012" x="470" y="1421" width="465" height="505" frameX="0" frameY="-8" frameWidth="465" frameHeight="514"/>
+	<SubTexture name="bulldish up0013" x="470" y="1421" width="465" height="505" frameX="0" frameY="-8" frameWidth="465" frameHeight="514"/>
+</TextureAtlas>

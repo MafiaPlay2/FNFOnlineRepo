@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mist.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mist0000" x="0" y="0" width="2360" height="851" pivotX="443.55" pivotY="75.95" frameX="0" frameY="-6" frameWidth="2360" frameHeight="857"/>
+	<SubTexture name="mist0001" x="0" y="0" width="2360" height="851" frameX="0" frameY="-6" frameWidth="2360" frameHeight="857"/>
+	<SubTexture name="mist0002" x="0" y="0" width="2360" height="851" frameX="0" frameY="-6" frameWidth="2360" frameHeight="857"/>
+	<SubTexture name="mist0003" x="0" y="0" width="2360" height="851" frameX="0" frameY="-6" frameWidth="2360" frameHeight="857"/>
+	<SubTexture name="mist0004" x="2360" y="0" width="2233" height="839" frameX="-76" frameY="0" frameWidth="2360" frameHeight="857"/>
+	<SubTexture name="mist0005" x="2360" y="0" width="2233" height="839" frameX="-76" frameY="0" frameWidth="2360" frameHeight="857"/>
+	<SubTexture name="mist0006" x="2360" y="0" width="2233" height="839" frameX="-76" frameY="0" frameWidth="2360" frameHeight="857"/>
+	<SubTexture name="mist0007" x="2360" y="0" width="2233" height="839" frameX="-76" frameY="0" frameWidth="2360" frameHeight="857"/>
+	<SubTexture name="mist0008" x="4593" y="0" width="2312" height="805" frameX="-23" frameY="-14" frameWidth="2360" frameHeight="857"/>
+	<SubTexture name="mist0009" x="4593" y="0" width="2312" height="805" frameX="-23" frameY="-14" frameWidth="2360" frameHeight="857"/>
+	<SubTexture name="mist0010" x="4593" y="0" width="2312" height="805" frameX="-23" frameY="-14" frameWidth="2360" frameHeight="857"/>
+	<SubTexture name="mist0011" x="4593" y="0" width="2312" height="805" frameX="-23" frameY="-14" frameWidth="2360" frameHeight="857"/>
+</TextureAtlas>

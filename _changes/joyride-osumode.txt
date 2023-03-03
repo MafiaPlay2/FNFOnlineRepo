@@ -1,0 +1,8 @@
+mods/data/joyride/joyride-easy.json
+mods/data/joyride/joyride-hard.json
+mods/data/joyride/joyride.json
+mods/data/joyride/mod.txt
+mods/songs/joyride/Voices.ogg
+mods/songs/joyride/voices.ogg
+mods/songs/joyride/Inst.ogg
+mods/songs/joyride/inst.ogg

@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-6
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-52
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-12
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-53
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				70
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-10
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-40,
+				-5
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "fear",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/emibf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "emibf",
+	"flip_x": true,
+	"healthbar_colors": [
+		67,
+		175,
+		211
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

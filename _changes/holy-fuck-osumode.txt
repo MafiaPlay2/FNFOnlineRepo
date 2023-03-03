@@ -1,0 +1,10 @@
+mods/data/holy-fuck/holy-fuck-hard.json
+mods/data/holy-fuck/mod.txt
+mods/Scott/stages/museum.json
+mods/Scott/stages/museum.lua
+mods/Scott/scripts/easyunderlay.lua
+mods/Scott/scripts/hey.lua
+mods/songs/holy-fuck/Voices.ogg
+mods/songs/holy-fuck/voices.ogg
+mods/songs/holy-fuck/Inst.ogg
+mods/songs/holy-fuck/inst.ogg

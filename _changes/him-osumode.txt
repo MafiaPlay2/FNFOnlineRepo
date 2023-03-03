@@ -1,0 +1,9 @@
+mods/data/him/him.json
+mods/data/him/mod.txt
+mods/Him/stages/him.json
+mods/Him/stages/him.lua
+mods/Him/custom_events/Hud_Fade.lua
+mods/songs/him/Voices.ogg
+mods/songs/him/voices.ogg
+mods/songs/him/Inst.ogg
+mods/songs/him/inst.ogg

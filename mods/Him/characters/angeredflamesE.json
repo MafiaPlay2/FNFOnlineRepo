@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Him3 left"
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Him3 down"
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Him3 right"
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Him3 up"
+		},
+		{
+			"offsets": [
+				-49,
+				-540
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "AngeredFlames2 idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AngeredFlamesE",
+	"position": [
+		50,
+		-360
+	],
+	"healthicon": "him",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-130,
+		-1250
+	],
+	"sing_duration": 6.1,
+	"scale": 3.1
+}

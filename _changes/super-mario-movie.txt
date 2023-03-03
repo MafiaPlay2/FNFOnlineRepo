@@ -1,5 +1,13 @@
+mods/data/super-mario-movie/mod.txt
 mods/data/super-mario-movie/super-mario-movie.json
+mods/Him/characters/bf.json
+mods/Him/characters/supermariomovie.json
+mods/Him/stages/supermario.json
+mods/Him/stages/supermario.lua
+mods/Him/images/characters/supermariomovie.png
+mods/Him/images/characters/supermariomovie.xml
+mods/Him/images/void.png
 mods/songs/super-mario-movie/Voices.ogg
-mods/songs/super-mario-movie/Inst.ogg
 mods/songs/super-mario-movie/voices.ogg
+mods/songs/super-mario-movie/Inst.ogg
 mods/songs/super-mario-movie/inst.ogg

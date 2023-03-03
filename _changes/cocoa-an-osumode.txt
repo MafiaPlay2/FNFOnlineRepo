@@ -1,0 +1,13 @@
+mods/data/cocoa-an/cocoa-an-erect.json
+mods/data/cocoa-an/cocoa-an-impotent.json
+mods/data/cocoa-an/hui.lua
+mods/data/cocoa-an/mod.txt
+mods/Animania/stages/christ.json
+mods/Animania/stages/christ.lua
+mods/Animania/custom_notetypes/Duble Note.lua
+mods/Animania/custom_notetypes/NoPress.lua
+mods/Animania/scripts/bruhFile.lua
+mods/songs/cocoa-an/Voices.ogg
+mods/songs/cocoa-an/voices.ogg
+mods/songs/cocoa-an/Inst.ogg
+mods/songs/cocoa-an/inst.ogg

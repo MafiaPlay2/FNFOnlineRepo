@@ -1,8 +1,15 @@
 mods/data/hellclown-aa/events.json
+mods/Art/characters/tosslermtricky.json
+mods/Art/characters/tosslergtricky.json
 mods/data/hellclown-aa/hellclown-aa-easy.json
 mods/data/hellclown-aa/hellclown-aa-hard.json
 mods/data/hellclown-aa/hellclown-aa.json
+mods/data/hellclown-aa/mod.txt
+mods/Art/characters/tricky.json
+mods/Art/characters/gf.json
+mods/Art/images/characters/GF_assets.png
+mods/Art/images/characters/GF_assets.xml
 mods/songs/hellclown-aa/Voices.ogg
-mods/songs/hellclown-aa/Inst.ogg
 mods/songs/hellclown-aa/voices.ogg
+mods/songs/hellclown-aa/Inst.ogg
 mods/songs/hellclown-aa/inst.ogg

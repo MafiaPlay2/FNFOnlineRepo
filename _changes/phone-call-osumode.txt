@@ -1,0 +1,14 @@
+mods/data/phone-call/events.json
+mods/data/phone-call/Flipped_Health_Bar.lua
+mods/data/phone-call/mod.txt
+mods/data/phone-call/phone-call-hard.json
+mods/data/phone-call/phone-call.json
+mods/data/phone-call/subtitles.lua
+mods/Animania/stages/street.json
+mods/Animania/stages/street.lua
+mods/Animania/custom_events/Set Cam Zoom.lua
+mods/Animania/scripts/bruhFile.lua
+mods/songs/phone-call/Voices.ogg
+mods/songs/phone-call/voices.ogg
+mods/songs/phone-call/Inst.ogg
+mods/songs/phone-call/inst.ogg

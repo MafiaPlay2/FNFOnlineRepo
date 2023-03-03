@@ -1,5 +1,16 @@
+mods/data/no-sex/mod.txt
 mods/data/no-sex/no-sex-hard.json
+mods/Scott/characters/rex.json
+mods/Scott/stages/rex.json
+mods/Scott/stages/rex.lua
+mods/Scott/images/characters/Rex.png
+mods/Scott/images/characters/Rex.xml
+mods/Scott/scripts/easyunderlay.lua
+mods/Scott/scripts/hey.lua
+mods/Scott/images/scottroom/Border.png
+mods/Scott/images/rex/box.png
+mods/Scott/images/rex/box.xml
 mods/songs/no-sex/Voices.ogg
-mods/songs/no-sex/Inst.ogg
 mods/songs/no-sex/voices.ogg
+mods/songs/no-sex/Inst.ogg
 mods/songs/no-sex/inst.ogg

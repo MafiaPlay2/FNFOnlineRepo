@@ -1,0 +1,9 @@
+mods/data/angered-him/angered-him.json
+mods/data/angered-him/mod.txt
+mods/Him/stages/nightmare.json
+mods/Him/stages/nightmare.lua
+mods/Him/custom_events/Flash_Camera.lua
+mods/songs/angered-him/Voices.ogg
+mods/songs/angered-him/voices.ogg
+mods/songs/angered-him/Inst.ogg
+mods/songs/angered-him/inst.ogg

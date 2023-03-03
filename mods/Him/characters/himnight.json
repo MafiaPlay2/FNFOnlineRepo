@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": " idle"
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": " left"
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": " down"
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": " right"
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": " up"
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": " missleft"
+		},
+		{
+			"offsets": [
+				82,
+				-400
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": " missdown"
+		},
+		{
+			"offsets": [
+				82,
+				-400
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": " missup"
+		},
+		{
+			"offsets": [
+				82,
+				-400
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": " missright"
+		},
+		{
+			"offsets": [
+				82,
+				-400
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "fuck",
+			"loop": true,
+			"name": " FUCK"
+		},
+		{
+			"offsets": [
+				82,
+				-400
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "hey",
+			"loop": true,
+			"name": " URETHA"
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "dead",
+			"loop": true,
+			"name": " dead"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/HimNight",
+	"position": [
+		120,
+		80
+	],
+	"healthicon": "him",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-150,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

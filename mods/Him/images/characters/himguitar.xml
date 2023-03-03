@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HimGuitar.png">
+<SubTexture name=" down0000" x="783" y="0" width="293" height="152" frameX="-31" frameY="-101" frameWidth="377" frameHeight="308" />
+<SubTexture name=" down0001" x="783" y="152" width="293" height="147" frameX="-30" frameY="-103" frameWidth="377" frameHeight="308" />
+<SubTexture name=" idle0000" x="783" y="299" width="291" height="126" frameX="-41" frameY="-143" frameWidth="377" frameHeight="308" />
+<SubTexture name=" idle0001" x="282" y="599" width="289" height="153" frameX="-45" frameY="-112" frameWidth="377" frameHeight="308" />
+<SubTexture name=" idle0002" x="0" y="421" width="282" height="178" frameX="-50" frameY="-84" frameWidth="377" frameHeight="308" />
+<SubTexture name=" left0000" x="258" y="0" width="259" height="227" frameX="-38" frameY="-49" frameWidth="377" frameHeight="308" />
+<SubTexture name=" left0001" x="0" y="0" width="258" height="230" frameX="-39" frameY="-48" frameWidth="377" frameHeight="308" />
+<SubTexture name=" right0000" x="0" y="599" width="282" height="155" frameX="-39" frameY="-92" frameWidth="377" frameHeight="308" />
+<SubTexture name=" right0001" x="282" y="421" width="278" height="162" frameX="-39" frameY="-90" frameWidth="377" frameHeight="308" />
+<SubTexture name=" up0000" x="517" y="0" width="266" height="189" frameX="-48" frameY="-53" frameWidth="377" frameHeight="308" />
+<SubTexture name=" up0001" x="0" y="230" width="266" height="191" frameX="-48" frameY="-51" frameWidth="377" frameHeight="308" />
+</TextureAtlas>

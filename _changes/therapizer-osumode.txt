@@ -1,0 +1,10 @@
+mods/data/therapizer/mod.txt
+mods/data/therapizer/therapizer-hard.json
+mods/Scott/stages/room.json
+mods/Scott/stages/room.lua
+mods/Scott/scripts/easyunderlay.lua
+mods/Scott/scripts/hey.lua
+mods/songs/therapizer/Voices.ogg
+mods/songs/therapizer/voices.ogg
+mods/songs/therapizer/Inst.ogg
+mods/songs/therapizer/inst.ogg

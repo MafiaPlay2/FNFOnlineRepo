@@ -1,0 +1,14 @@
+mods/data/eggnog-an/eggnog-an-erect.json
+mods/data/eggnog-an/eggnog-an-impotent.json
+mods/data/eggnog-an/hui.lua
+mods/data/eggnog-an/mod.txt
+mods/Animania/stages/christ.json
+mods/Animania/stages/christ.lua
+mods/Animania/custom_notetypes/Duble Note.lua
+mods/Animania/custom_events/FreeStyleImageFUUUCK.lua
+mods/Animania/custom_events/Set Cam Zoom.lua
+mods/Animania/scripts/bruhFile.lua
+mods/songs/eggnog-an/Voices.ogg
+mods/songs/eggnog-an/voices.ogg
+mods/songs/eggnog-an/Inst.ogg
+mods/songs/eggnog-an/inst.ogg

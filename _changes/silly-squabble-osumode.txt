@@ -1,0 +1,8 @@
+mods/data/silly-squabble/mod.txt
+mods/data/silly-squabble/silly-squabble.json
+mods/Him/stages/spoinjky.json
+mods/Him/stages/spoinjky.lua
+mods/songs/silly-squabble/Voices.ogg
+mods/songs/silly-squabble/voices.ogg
+mods/songs/silly-squabble/Inst.ogg
+mods/songs/silly-squabble/inst.ogg

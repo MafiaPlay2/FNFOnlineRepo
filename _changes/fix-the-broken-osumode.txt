@@ -1,0 +1,11 @@
+mods/data/fix-the-broken/events.json
+mods/data/fix-the-broken/fix-the-broken-easy.json
+mods/data/fix-the-broken/fix-the-broken-hard.json
+mods/data/fix-the-broken/fix-the-broken.json
+mods/data/fix-the-broken/mod.txt
+mods/Art/stages/TossBG.json
+mods/Art/stages/TossBG.lua
+mods/songs/fix-the-broken/Voices.ogg
+mods/songs/fix-the-broken/voices.ogg
+mods/songs/fix-the-broken/Inst.ogg
+mods/songs/fix-the-broken/inst.ogg

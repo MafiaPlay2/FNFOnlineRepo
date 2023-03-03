@@ -1,0 +1,12 @@
+mods/data/instruction-manual/events.json
+mods/data/instruction-manual/instruction-manual-hard.json
+mods/data/instruction-manual/mod.txt
+mods/Scott/stages/scott-room.json
+mods/Scott/stages/scott-room.lua
+mods/Scott/custom_events/flash.lua
+mods/Scott/scripts/easyunderlay.lua
+mods/Scott/scripts/hey.lua
+mods/songs/instruction-manual/Voices.ogg
+mods/songs/instruction-manual/voices.ogg
+mods/songs/instruction-manual/Inst.ogg
+mods/songs/instruction-manual/inst.ogg

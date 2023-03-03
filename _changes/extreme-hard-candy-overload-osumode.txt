@@ -1,0 +1,15 @@
+mods/data/extreme-hard-candy-overload/extreme-hard-candy-overload-easy.json
+mods/data/extreme-hard-candy-overload/extreme-hard-candy-overload-hard.json
+mods/data/extreme-hard-candy-overload/extreme-hard-candy-overload.json
+mods/data/extreme-hard-candy-overload/mod.txt
+mods/Danke/stages/DessertShop.json
+mods/Danke/stages/DessertShop.lua
+mods/Danke/scripts/gameover-otherchars.lua
+mods/Danke/scripts/HealthDrain.lua
+mods/Danke/scripts/movecam.lua
+mods/Danke/scripts/particleAndFX.lua
+mods/Danke/scripts/spaceToTaunt.lua
+mods/songs/extreme-hard-candy-overload/Voices.ogg
+mods/songs/extreme-hard-candy-overload/voices.ogg
+mods/songs/extreme-hard-candy-overload/Inst.ogg
+mods/songs/extreme-hard-candy-overload/inst.ogg

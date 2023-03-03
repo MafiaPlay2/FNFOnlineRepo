@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				-400
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "NightmareHim3 idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "NightmareHim3 left"
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": false,
+			"name": "NightmareHim3 up"
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "NightmareHim3 down"
+		},
+		{
+			"offsets": [
+				81,
+				-400
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "NightmareHim3 right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/NightmareHimE",
+	"position": [
+		120,
+		80
+	],
+	"healthicon": "him",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-140,
+		-1180
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

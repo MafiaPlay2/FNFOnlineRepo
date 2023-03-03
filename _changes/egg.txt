@@ -1,5 +1,15 @@
 mods/data/egg/egg.json
+mods/data/egg/mod.txt
+mods/Him/characters/himend.json
+mods/Him/characters/egg.json
+mods/Him/stages/BGTEST.json
+mods/Him/stages/BGTEST.lua
+mods/Him/images/characters/HimEnd.png
+mods/Him/images/characters/HimEnd.xml
+mods/Him/images/characters/Egg.png
+mods/Him/images/characters/Egg.xml
+mods/Him/images/theend.png
 mods/songs/egg/Voices.ogg
-mods/songs/egg/Inst.ogg
 mods/songs/egg/voices.ogg
+mods/songs/egg/Inst.ogg
 mods/songs/egg/inst.ogg

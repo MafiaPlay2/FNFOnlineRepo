@@ -5768,8 +5768,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player3": "guards",
+		"player3": "",
+		"gfVersion": "guards",
 		"song": "Real-Deal",
+		"stage": "TossBG",
 		"validScore": true,
 		"needsVoices": true,
 		"speed": 2.7,

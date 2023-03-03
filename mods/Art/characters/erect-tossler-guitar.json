@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "tossleridlerock"
+		},
+		{
+			"offsets": [
+				-11,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tossleruprock"
+		},
+		{
+			"offsets": [
+				40,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tosslerdownrock"
+		},
+		{
+			"offsets": [
+				106,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tosslerleftrock"
+		},
+		{
+			"offsets": [
+				-10,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tosslerrightrock"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/erect_tossler_g",
+	"position": [
+		70,
+		290
+	],
+	"healthicon": "tosslererect",
+	"flip_x": false,
+	"healthbar_colors": [
+		122,
+		78,
+		211
+	],
+	"camera_position": [
+		-30,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

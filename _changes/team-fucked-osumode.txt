@@ -1,0 +1,10 @@
+mods/data/team-fucked/mod.txt
+mods/data/team-fucked/team-fucked-hard.json
+mods/Scott/stages/scott-room.json
+mods/Scott/stages/scott-room.lua
+mods/Scott/scripts/easyunderlay.lua
+mods/Scott/scripts/hey.lua
+mods/songs/team-fucked/Voices.ogg
+mods/songs/team-fucked/voices.ogg
+mods/songs/team-fucked/Inst.ogg
+mods/songs/team-fucked/inst.ogg

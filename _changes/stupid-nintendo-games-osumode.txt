@@ -1,0 +1,13 @@
+mods/data/stupid-nintendo-games/events.json
+mods/data/stupid-nintendo-games/mod.txt
+mods/data/stupid-nintendo-games/stupid-nintendo-games-easy.json
+mods/data/stupid-nintendo-games/stupid-nintendo-games-hard.json
+mods/data/stupid-nintendo-games/stupid-nintendo-games.json
+mods/Scott/stages/scott-room.json
+mods/Scott/stages/scott-room.lua
+mods/Scott/scripts/easyunderlay.lua
+mods/Scott/scripts/hey.lua
+mods/songs/stupid-nintendo-games/Voices.ogg
+mods/songs/stupid-nintendo-games/voices.ogg
+mods/songs/stupid-nintendo-games/Inst.ogg
+mods/songs/stupid-nintendo-games/inst.ogg

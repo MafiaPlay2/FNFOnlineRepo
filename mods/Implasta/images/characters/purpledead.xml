@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="purpledead.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PURPLEDEAD0000" x="2" y="2" width="144" height="114"/>
+	<SubTexture name="PURPLEDEAD0001" x="2" y="2" width="144" height="114"/>
+	<SubTexture name="PURPLEDEAD0002" x="2" y="2" width="144" height="114"/>
+	<SubTexture name="PURPLEDEAD0003" x="148" y="2" width="144" height="114"/>
+	<SubTexture name="PURPLEDEAD0004" x="148" y="2" width="144" height="114"/>
+	<SubTexture name="PURPLEDEAD0005" x="148" y="2" width="144" height="114"/>
+	<SubTexture name="PURPLEDEAD0006" x="294" y="2" width="144" height="114"/>
+	<SubTexture name="PURPLEDEAD0007" x="294" y="2" width="144" height="114"/>
+	<SubTexture name="PURPLEDEAD0008" x="294" y="2" width="144" height="114"/>
+</TextureAtlas>

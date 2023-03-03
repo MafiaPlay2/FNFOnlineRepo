@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rainfall.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rainfallloop0000" x="0" y="0" width="2613" height="868" pivotX="936.1" pivotY="919.8" frameX="-41" frameY="-40" frameWidth="2654" frameHeight="908"/>
+	<SubTexture name="rainfallloop0001" x="0" y="868" width="2588" height="852" frameX="-30" frameY="-11" frameWidth="2654" frameHeight="908"/>
+	<SubTexture name="rainfallloop0002" x="0" y="1720" width="2620" height="823" frameX="0" frameY="-69" frameWidth="2654" frameHeight="908"/>
+	<SubTexture name="rainfallloop0003" x="0" y="2543" width="2551" height="879" frameX="-59" frameY="0" frameWidth="2654" frameHeight="908"/>
+</TextureAtlas>

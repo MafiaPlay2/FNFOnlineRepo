@@ -1,0 +1,8 @@
+mods/data/what-e/mod.txt
+mods/data/what-e/what-e.json
+mods/Him/stages/himnight.json
+mods/Him/stages/himnight.lua
+mods/songs/what-e/Voices.ogg
+mods/songs/what-e/voices.ogg
+mods/songs/what-e/Inst.ogg
+mods/songs/what-e/inst.ogg

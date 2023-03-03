@@ -1,0 +1,8 @@
+mods/data/it/it.json
+mods/data/it/mod.txt
+mods/Him/stages/itnew.json
+mods/Him/stages/itnew.lua
+mods/songs/it/Voices.ogg
+mods/songs/it/voices.ogg
+mods/songs/it/Inst.ogg
+mods/songs/it/inst.ogg

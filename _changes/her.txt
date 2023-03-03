@@ -1,5 +1,15 @@
 mods/data/her/her.json
+mods/data/her/mod.txt
+mods/Him/characters/himplayable.json
+mods/Him/characters/her.json
+mods/Him/stages/graveyard.json
+mods/Him/stages/graveyard.lua
+mods/Him/images/characters/Him3.png
+mods/Him/images/characters/Him3.xml
+mods/Him/images/characters/HER.png
+mods/Him/images/characters/HER.xml
+mods/Him/images/graveyard.png
 mods/songs/her/Voices.ogg
-mods/songs/her/Inst.ogg
 mods/songs/her/voices.ogg
+mods/songs/her/Inst.ogg
 mods/songs/her/inst.ogg

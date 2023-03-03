@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				781,
+				960
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				784,
+				958
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				752,
+				996
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				761,
+				961
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				778,
+				868
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RematchHim2",
+	"position": [
+		660,
+		1160
+	],
+	"healthicon": "nightmarehim",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		33,
+		0
+	],
+	"camera_position": [
+		-410,
+		-570
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,6 @@
+mods/data/guns-remix/guns-remix.json
+mods/data/guns-remix/mod.txt
+mods/songs/guns-remix/Voices.ogg
+mods/songs/guns-remix/voices.ogg
+mods/songs/guns-remix/Inst.ogg
+mods/songs/guns-remix/inst.ogg

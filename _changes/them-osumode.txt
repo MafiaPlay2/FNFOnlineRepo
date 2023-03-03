@@ -1,0 +1,8 @@
+mods/data/them/mod.txt
+mods/data/them/them.json
+mods/Him/stages/them.json
+mods/Him/stages/them.lua
+mods/songs/them/Voices.ogg
+mods/songs/them/voices.ogg
+mods/songs/them/Inst.ogg
+mods/songs/them/inst.ogg

@@ -1,0 +1,9 @@
+mods/data/angered-him-e/angered-him-e.json
+mods/data/angered-him-e/mod.txt
+mods/Him/stages/nightmareE.json
+mods/Him/stages/nightmareE.lua
+mods/Him/custom_events/Flash_Purple.lua
+mods/songs/angered-him-e/Voices.ogg
+mods/songs/angered-him-e/voices.ogg
+mods/songs/angered-him-e/Inst.ogg
+mods/songs/angered-him-e/inst.ogg

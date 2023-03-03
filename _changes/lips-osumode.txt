@@ -1,0 +1,9 @@
+mods/data/lips/lips-hard.json
+mods/data/lips/mod.txt
+mods/StevHervy/stages/familyfeud.json
+mods/StevHervy/stages/familyfeud.lua
+mods/StevHervy/custom_events/cuttoblack.lua
+mods/songs/lips/Voices.ogg
+mods/songs/lips/voices.ogg
+mods/songs/lips/Inst.ogg
+mods/songs/lips/inst.ogg

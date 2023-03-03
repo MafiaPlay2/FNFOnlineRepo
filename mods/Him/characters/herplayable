@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SpookyIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SpookyLeft0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-90
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SpookyDown0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SpookyUp0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SpookyRight0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				-20
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "SpookyLeftALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-80
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "SpookyDownALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				30
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "SpookyUpALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-40
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "SpookyRightALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				30
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "SpookyHEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-10
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "SpookyLaugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spoopy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

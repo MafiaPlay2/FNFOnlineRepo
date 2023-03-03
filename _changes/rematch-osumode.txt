@@ -1,0 +1,11 @@
+mods/data/rematch/mod.txt
+mods/data/rematch/rematch.json
+mods/Him/stages/rematch.json
+mods/Him/stages/rematch.lua
+mods/Him/custom_events/Hud_Fade.lua
+mods/Him/custom_events/Flash_Camera.lua
+mods/Him/custom_events/Force Middlescroll.lua
+mods/songs/rematch/Voices.ogg
+mods/songs/rematch/voices.ogg
+mods/songs/rematch/Inst.ogg
+mods/songs/rematch/inst.ogg

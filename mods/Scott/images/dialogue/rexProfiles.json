@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"idle_offsets": [
+				-150,
+				0
+			],
+			"anim": "arrival",
+			"loop_offsets": [
+				-150,
+				0
+			],
+			"idle_name": "RexProfArrival0",
+			"loop_name": "RexProfArrival0"
+		},
+		{
+			"idle_offsets": [
+				-150,
+				0
+			],
+			"anim": "busy",
+			"loop_offsets": [
+				-150,
+				0
+			],
+			"idle_name": "RexProfBusy0",
+			"loop_name": "RexProfBusy0"
+		},
+		{
+			"loop_offsets": [
+				-150,
+				8
+			],
+			"anim": "Gun",
+			"idle_offsets": [
+				-150,
+				8
+			],
+			"loop_name": "RexProfGun0000",
+			"idle_name": "RexProfGun0000"
+		},
+		{
+			"loop_offsets": [
+				-150,
+				0
+			],
+			"anim": "GunAgro",
+			"idle_offsets": [
+				-150,
+				0
+			],
+			"loop_name": "RexProfGunAgro0000",
+			"idle_name": "RexProfGunAgro0000"
+		},
+		{
+			"loop_offsets": [
+				9,
+				159
+			],
+			"anim": "Explosuion",
+			"idle_offsets": [
+				9,
+				159
+			],
+			"loop_name": "RexProfExplosuion0",
+			"idle_name": "RexProfExplosuion29"
+		}
+	],
+	"image": "RexProfiles"
+}

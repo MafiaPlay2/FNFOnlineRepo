@@ -1,0 +1,8 @@
+mods/data/her/her.json
+mods/data/her/mod.txt
+mods/Him/stages/graveyard.json
+mods/Him/stages/graveyard.lua
+mods/songs/her/Voices.ogg
+mods/songs/her/voices.ogg
+mods/songs/her/Inst.ogg
+mods/songs/her/inst.ogg

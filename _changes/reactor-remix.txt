@@ -1,5 +1,25 @@
+mods/data/reactor-remix/mod.txt
 mods/data/reactor-remix/reactor-remix-hard.json
+mods/Him/characters/himplayable.json
+mods/Him/characters/impostor3.json
+mods/Him/stages/reactor.json
+mods/Him/stages/reactor.lua
+mods/Him/images/characters/Him3.png
+mods/Him/images/characters/Him3.xml
+mods/Him/images/characters/impostor3.png
+mods/Him/images/characters/impostor3.xml
+mods/Him/images/stages/reactor background.png
+mods/Him/images/stages/susBoppers.png
+mods/Him/images/stages/susBoppers.xml
+mods/Him/images/stages/back pillars.png
+mods/Him/images/stages/middle pillars.png
+mods/Him/images/stages/front pillars.png
+mods/Him/images/stages/ball of big ol energy.png
+mods/Him/images/stages/center console.png
+mods/Him/images/stages/side console.png
+mods/Him/images/stages/upper cranes.png
+mods/Him/images/stages/reference.png
 mods/songs/reactor-remix/Voices.ogg
-mods/songs/reactor-remix/Inst.ogg
 mods/songs/reactor-remix/voices.ogg
+mods/songs/reactor-remix/Inst.ogg
 mods/songs/reactor-remix/inst.ogg

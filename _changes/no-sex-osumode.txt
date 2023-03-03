@@ -1,0 +1,10 @@
+mods/data/no-sex/mod.txt
+mods/data/no-sex/no-sex-hard.json
+mods/Scott/stages/rex.json
+mods/Scott/stages/rex.lua
+mods/Scott/scripts/easyunderlay.lua
+mods/Scott/scripts/hey.lua
+mods/songs/no-sex/Voices.ogg
+mods/songs/no-sex/voices.ogg
+mods/songs/no-sex/Inst.ogg
+mods/songs/no-sex/inst.ogg

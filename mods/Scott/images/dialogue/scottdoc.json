@@ -1,0 +1,50 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "ScottProfiles",
+	"animations": [
+		{
+			"loop_offsets": [
+				180,
+				0
+			],
+			"anim": "mic",
+			"idle_offsets": [
+				180,
+				0
+			],
+			"loop_name": "ScottProfDocMic0",
+			"idle_name": "ScottProfDocMic0"
+		},
+		{
+			"idle_offsets": [
+				140,
+				0
+			],
+			"anim": "rthr",
+			"loop_offsets": [
+				140,
+				0
+			],
+			"idle_name": "ScottProfRTHR0",
+			"loop_name": "ScottProfRTHR0"
+		},
+		{
+			"idle_offsets": [
+				-150,
+				0
+			],
+			"anim": "docshock",
+			"loop_offsets": [
+				-150,
+				0
+			],
+			"idle_name": "ScottProfDocShock0",
+			"loop_name": "ScottProfDocShock0"
+		}
+	]
+}

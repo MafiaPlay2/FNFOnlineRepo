@@ -1,7 +1,15 @@
+mods/data/reconnect/mod.txt
 mods/data/reconnect/reconnect-easy.json
 mods/data/reconnect/reconnect-hard.json
 mods/data/reconnect/reconnect.json
+mods/Art/characters/indy.json
+mods/Art/characters/tosslercasual.json
+mods/Art/characters/gf.json
+mods/Art/images/characters/week2/indysmug.png
+mods/Art/images/characters/week2/indysmug.xml
+mods/Art/images/characters/GF_assets.png
+mods/Art/images/characters/GF_assets.xml
 mods/songs/reconnect/Voices.ogg
-mods/songs/reconnect/Inst.ogg
 mods/songs/reconnect/voices.ogg
+mods/songs/reconnect/Inst.ogg
 mods/songs/reconnect/inst.ogg

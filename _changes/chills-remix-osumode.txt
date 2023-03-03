@@ -1,0 +1,8 @@
+mods/data/chills-remix/chills-remix.json
+mods/data/chills-remix/mod.txt
+mods/Him/stages/spookingoffrn.json
+mods/Him/stages/spookingoffrn.lua
+mods/songs/chills-remix/Voices.ogg
+mods/songs/chills-remix/voices.ogg
+mods/songs/chills-remix/Inst.ogg
+mods/songs/chills-remix/inst.ogg

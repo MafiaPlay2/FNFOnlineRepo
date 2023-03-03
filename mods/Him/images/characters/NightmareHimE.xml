@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NightmareHim3.png"><SubTexture name="NightmareHim3 down0000" x="0" y="0" width="377" height="308" frameX="0" frameY="0" frameWidth="377" frameHeight="308" />
+<SubTexture name="NightmareHim3 down0001" x="377" y="0" width="377" height="308" frameX="0" frameY="0" frameWidth="377" frameHeight="308" />
+<SubTexture name="NightmareHim3 idle0000" x="0" y="308" width="377" height="308" frameX="0" frameY="0" frameWidth="377" frameHeight="308" />
+<SubTexture name="NightmareHim3 left0000" x="377" y="308" width="377" height="308" frameX="0" frameY="0" frameWidth="377" frameHeight="308" />
+<SubTexture name="NightmareHim3 left0001" x="754" y="0" width="377" height="308" frameX="0" frameY="0" frameWidth="377" frameHeight="308" />
+<SubTexture name="NightmareHim3 right0000" x="754" y="308" width="377" height="308" frameX="0" frameY="0" frameWidth="377" frameHeight="308" />
+<SubTexture name="NightmareHim3 right0001" x="0" y="616" width="377" height="308" frameX="0" frameY="0" frameWidth="377" frameHeight="308" />
+<SubTexture name="NightmareHim3 up0000" x="377" y="616" width="377" height="308" frameX="0" frameY="0" frameWidth="377" frameHeight="308" />
+<SubTexture name="NightmareHim3 up0001" x="754" y="616" width="377" height="308" frameX="0" frameY="0" frameWidth="377" frameHeight="308" />
+</TextureAtlas>

@@ -1,0 +1,10 @@
+mods/data/real-deal-erect/events.json
+mods/data/real-deal-erect/mod.txt
+mods/data/real-deal-erect/real-deal-erect-erect.json
+mods/data/real-deal-erect/real-deal-erect-truefear.json
+mods/Art/stages/movie-hall.json
+mods/Art/stages/movie-hall.lua
+mods/songs/real-deal-erect/Voices.ogg
+mods/songs/real-deal-erect/voices.ogg
+mods/songs/real-deal-erect/Inst.ogg
+mods/songs/real-deal-erect/inst.ogg

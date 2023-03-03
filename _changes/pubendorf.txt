@@ -1,6 +1,19 @@
 mods/data/pubendorf/events.json
+mods/data/pubendorf/mod.txt
 mods/data/pubendorf/pubendorf-hard.json
+mods/Implasta/characters/bf.json
+mods/Implasta/characters/amongus.json
+mods/Implasta/characters/purple.json
+mods/Implasta/stages/electrical.json
+mods/Implasta/stages/electrical.lua
+mods/Implasta/images/characters/amongus.png
+mods/Implasta/images/characters/amongus.xml
+mods/Implasta/images/characters/purpledead.png
+mods/Implasta/images/characters/purpledead.xml
+mods/Implasta/custom_events/Cam Speed.lua
+mods/Implasta/custom_events/Cam Zoom Tween.lua
+mods/Implasta/images/bg.png
 mods/songs/pubendorf/Voices.ogg
-mods/songs/pubendorf/Inst.ogg
 mods/songs/pubendorf/voices.ogg
+mods/songs/pubendorf/Inst.ogg
 mods/songs/pubendorf/inst.ogg

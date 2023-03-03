@@ -1,0 +1,11 @@
+mods/data/puppeteer/mod.txt
+mods/data/puppeteer/puppeteer.json
+mods/Debate/stages/facility.json
+mods/Debate/stages/facility.lua
+mods/Debate/custom_events/Camera Flash.lua
+mods/Debate/scripts/camNoteMovement.lua
+mods/Debate/scripts/customUI.lua
+mods/songs/puppeteer/Voices.ogg
+mods/songs/puppeteer/voices.ogg
+mods/songs/puppeteer/Inst.ogg
+mods/songs/puppeteer/inst.ogg

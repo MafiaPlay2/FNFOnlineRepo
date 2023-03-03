@@ -1,0 +1,8 @@
+mods/data/egg/egg.json
+mods/data/egg/mod.txt
+mods/Him/stages/BGTEST.json
+mods/Him/stages/BGTEST.lua
+mods/songs/egg/Voices.ogg
+mods/songs/egg/voices.ogg
+mods/songs/egg/Inst.ogg
+mods/songs/egg/inst.ogg

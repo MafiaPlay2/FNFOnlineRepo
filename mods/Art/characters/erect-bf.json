@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				24,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				-1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				14
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				35
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-32
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				11
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY!!",
+			"indices": []
+		},
+		{
+			"offsets": [
+				55,
+				-1
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF NOTE LEFT"
+		},
+		{
+			"offsets": [
+				15,
+				-1
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF NOTE RIGHT"
+		},
+		{
+			"offsets": [
+				20,
+				35
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF NOTE UP"
+		},
+		{
+			"offsets": [
+				55,
+				-46
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BF NOTE DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/erect_bf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bferect",
+	"flip_x": true,
+	"healthbar_colors": [
+		39,
+		153,
+		110
+	],
+	"camera_position": [
+		150,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

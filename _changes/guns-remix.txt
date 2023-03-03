@@ -1,5 +1,9 @@
 mods/data/guns-remix/guns-remix.json
+mods/data/guns-remix/mod.txt
+mods/Him/characters/himplayable.json
+mods/Him/images/characters/Him3.png
+mods/Him/images/characters/Him3.xml
 mods/songs/guns-remix/Voices.ogg
-mods/songs/guns-remix/Inst.ogg
 mods/songs/guns-remix/voices.ogg
+mods/songs/guns-remix/Inst.ogg
 mods/songs/guns-remix/inst.ogg

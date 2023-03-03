@@ -1,5 +1,19 @@
+mods/data/therapizer/mod.txt
 mods/data/therapizer/therapizer-hard.json
+mods/Scott/characters/jerry.json
+mods/Scott/characters/yrrej.json
+mods/Scott/stages/room.json
+mods/Scott/stages/room.lua
+mods/Scott/images/characters/Jerry.png
+mods/Scott/images/characters/Jerry.xml
+mods/Scott/images/characters/yyreJ.png
+mods/Scott/images/characters/yyreJ.xml
+mods/Scott/scripts/easyunderlay.lua
+mods/Scott/scripts/hey.lua
+mods/Scott/images/mirror/Jerry BG back.png
+mods/Scott/images/mirror/Jerry BG front.png
+mods/Scott/images/scottroom/Border.png
 mods/songs/therapizer/Voices.ogg
-mods/songs/therapizer/Inst.ogg
 mods/songs/therapizer/voices.ogg
+mods/songs/therapizer/Inst.ogg
 mods/songs/therapizer/inst.ogg

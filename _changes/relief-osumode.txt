@@ -1,0 +1,10 @@
+mods/data/relief/events.json
+mods/data/relief/mod.txt
+mods/data/relief/relief-hard.json
+mods/Skiwi/stages/skiwi.json
+mods/Skiwi/stages/skiwi.lua
+mods/Skiwi/custom_events/BlameBGchange.lua
+mods/songs/relief/Voices.ogg
+mods/songs/relief/voices.ogg
+mods/songs/relief/Inst.ogg
+mods/songs/relief/inst.ogg
