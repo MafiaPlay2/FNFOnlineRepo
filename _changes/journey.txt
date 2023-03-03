@@ -1,0 +1,29 @@
+mods/data/journey/events.json
+mods/data/journey/journey-acoustic.json
+mods/data/journey/journey-master.json
+mods/data/journey/journey-ultra.json
+mods/data/journey/journey-whisper.json
+mods/data/journey/mod.txt
+mods/Lanota/characters/ritmofriend.json
+mods/Lanota/characters/gone.json
+mods/Lanota/characters/smallgf.json
+mods/Lanota/stages/journey.json
+mods/Lanota/stages/journey.lua
+mods/Lanota/images/characters/ritmofriend.png
+mods/Lanota/images/characters/ritmofriend.xml
+mods/Lanota/images/characters/gone.png
+mods/Lanota/images/characters/gone.xml
+mods/Lanota/images/characters/girlfisica.png
+mods/Lanota/images/characters/girlfisica.xml
+mods/Lanota/custom_events/Set Cam Zoom.lua
+mods/Lanota/scripts/customUI.lua
+mods/Lanota/scripts/easyunderlay.lua
+mods/Lanota/scripts/Middle Scroll.lua
+mods/Lanota/scripts/Song Name.lua
+mods/Lanota/images/journey_bg.png
+mods/Lanota/images/songBG.png
+mods/Lanota/fonts/vcr.ttf
+mods/songs/journey/Voices.ogg
+mods/songs/journey/voices.ogg
+mods/songs/journey/Inst.ogg
+mods/songs/journey/inst.ogg

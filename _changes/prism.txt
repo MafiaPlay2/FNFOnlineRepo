@@ -1,0 +1,29 @@
+mods/data/prism/events.json
+mods/data/prism/mod.txt
+mods/data/prism/prism-acoustic.json
+mods/data/prism/prism-master.json
+mods/data/prism/prism-ultra.json
+mods/data/prism/prism-whisper.json
+mods/Lanota/characters/ritmofriend.json
+mods/Lanota/characters/gone.json
+mods/Lanota/characters/girlfisica.json
+mods/Lanota/stages/prism.json
+mods/Lanota/stages/prism.lua
+mods/Lanota/images/characters/ritmofriend.png
+mods/Lanota/images/characters/ritmofriend.xml
+mods/Lanota/images/characters/gone.png
+mods/Lanota/images/characters/gone.xml
+mods/Lanota/images/characters/girlfisica.png
+mods/Lanota/images/characters/girlfisica.xml
+mods/Lanota/custom_events/Set Cam Zoom.lua
+mods/Lanota/scripts/customUI.lua
+mods/Lanota/scripts/easyunderlay.lua
+mods/Lanota/scripts/Middle Scroll.lua
+mods/Lanota/scripts/Song Name.lua
+mods/Lanota/images/prism_bg.png
+mods/Lanota/images/songBG.png
+mods/Lanota/fonts/vcr.ttf
+mods/songs/prism/Voices.ogg
+mods/songs/prism/voices.ogg
+mods/songs/prism/Inst.ogg
+mods/songs/prism/inst.ogg

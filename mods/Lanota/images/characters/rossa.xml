@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rossa.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rossadown0000" x="0" y="420" width="343" height="416" frameX="0" frameY="0" frameWidth="343" frameHeight="416"/>
+	<SubTexture name="rossadown0001" x="0" y="420" width="343" height="416" frameX="0" frameY="0" frameWidth="343" frameHeight="416"/>
+	<SubTexture name="rossadown0002" x="343" y="420" width="342" height="416" frameX="0" frameY="0" frameWidth="342" frameHeight="416"/>
+	<SubTexture name="rossadown0003" x="343" y="420" width="342" height="416" frameX="0" frameY="0" frameWidth="342" frameHeight="416"/>
+	<SubTexture name="rossadown0004" x="685" y="420" width="342" height="416" frameX="0" frameY="0" frameWidth="342" frameHeight="416"/>
+	<SubTexture name="ROSSAIDLE0000" x="0" y="0" width="347" height="420" frameX="0" frameY="0" frameWidth="347" frameHeight="420"/>
+	<SubTexture name="ROSSAIDLE0001" x="0" y="0" width="347" height="420" frameX="0" frameY="0" frameWidth="347" frameHeight="420"/>
+	<SubTexture name="ROSSAIDLE0002" x="347" y="0" width="344" height="420" frameX="0" frameY="0" frameWidth="344" frameHeight="420"/>
+	<SubTexture name="ROSSAIDLE0003" x="347" y="0" width="344" height="420" frameX="0" frameY="0" frameWidth="344" frameHeight="420"/>
+	<SubTexture name="ROSSAIDLE0004" x="691" y="0" width="341" height="420" frameX="0" frameY="0" frameWidth="341" frameHeight="420"/>
+	<SubTexture name="ROSSAIDLE0005" x="691" y="0" width="341" height="420" frameX="0" frameY="0" frameWidth="341" frameHeight="420"/>
+	<SubTexture name="ROSSAIDLE0006" x="1032" y="0" width="339" height="420" frameX="0" frameY="0" frameWidth="339" frameHeight="420"/>
+	<SubTexture name="ROSSAIDLE0007" x="1032" y="0" width="339" height="420" frameX="0" frameY="0" frameWidth="339" frameHeight="420"/>
+	<SubTexture name="ROSSAIDLE0008" x="1371" y="0" width="339" height="420" frameX="0" frameY="0" frameWidth="339" frameHeight="420"/>
+	<SubTexture name="ROSSAIDLE0009" x="1371" y="0" width="339" height="420" frameX="0" frameY="0" frameWidth="339" frameHeight="420"/>
+	<SubTexture name="ROSSAIDLE0010" x="1710" y="0" width="339" height="420" frameX="0" frameY="0" frameWidth="339" frameHeight="420"/>
+	<SubTexture name="rossaleft0000" x="1057" y="844" width="340" height="421" frameX="0" frameY="0" frameWidth="340" frameHeight="421"/>
+	<SubTexture name="rossaleft0001" x="1057" y="844" width="340" height="421" frameX="0" frameY="0" frameWidth="340" frameHeight="421"/>
+	<SubTexture name="rossaleft0002" x="1397" y="844" width="340" height="421" frameX="0" frameY="0" frameWidth="340" frameHeight="421"/>
+	<SubTexture name="rossaleft0003" x="1397" y="844" width="340" height="421" frameX="0" frameY="0" frameWidth="340" frameHeight="421"/>
+	<SubTexture name="rossaleft0004" x="1737" y="844" width="340" height="421" frameX="0" frameY="0" frameWidth="340" frameHeight="421"/>
+	<SubTexture name="ROSSARIGHT0000" x="0" y="844" width="353" height="421" frameX="0" frameY="0" frameWidth="353" frameHeight="421"/>
+	<SubTexture name="ROSSARIGHT0001" x="0" y="844" width="353" height="421" frameX="0" frameY="0" frameWidth="353" frameHeight="421"/>
+	<SubTexture name="ROSSARIGHT0002" x="353" y="844" width="352" height="421" frameX="0" frameY="0" frameWidth="352" frameHeight="421"/>
+	<SubTexture name="ROSSARIGHT0003" x="353" y="844" width="352" height="421" frameX="0" frameY="0" frameWidth="352" frameHeight="421"/>
+	<SubTexture name="ROSSARIGHT0004" x="705" y="844" width="352" height="421" frameX="0" frameY="0" frameWidth="352" frameHeight="421"/>
+	<SubTexture name="rossaup0000" x="1027" y="420" width="337" height="424" frameX="0" frameY="0" frameWidth="337" frameHeight="424"/>
+	<SubTexture name="rossaup0001" x="1027" y="420" width="337" height="424" frameX="0" frameY="0" frameWidth="337" frameHeight="424"/>
+	<SubTexture name="rossaup0002" x="1364" y="420" width="337" height="424" frameX="0" frameY="0" frameWidth="337" frameHeight="424"/>
+	<SubTexture name="rossaup0003" x="1364" y="420" width="337" height="424" frameX="0" frameY="0" frameWidth="337" frameHeight="424"/>
+	<SubTexture name="rossaup0004" x="1701" y="420" width="337" height="424" frameX="0" frameY="0" frameWidth="337" frameHeight="424"/>
+</TextureAtlas>

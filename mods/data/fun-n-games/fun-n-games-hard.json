@@ -3196,6 +3196,7 @@
 		"player2": "tosslerquirky",
 		"player3": "guards",
 		"song": "Fun-N-Games",
+		"stage": "TossBG",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 110,

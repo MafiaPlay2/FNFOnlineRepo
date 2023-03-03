@@ -1,0 +1,17 @@
+mods/data/frey's-philosophy-(legacy)/events.json
+mods/data/frey's-philosophy-(legacy)/frey's-philosophy-(legacy)-acoustic.json
+mods/data/frey's-philosophy-(legacy)/frey's-philosophy-(legacy)-master.json
+mods/data/frey's-philosophy-(legacy)/frey's-philosophy-(legacy)-ultra.json
+mods/data/frey's-philosophy-(legacy)/frey's-philosophy-(legacy)-whisper.json
+mods/data/frey's-philosophy-(legacy)/mod.txt
+mods/Lanota/stages/freys.json
+mods/Lanota/stages/freys.lua
+mods/Lanota/scripts/customUI.lua
+mods/Lanota/scripts/easyunderlay.lua
+mods/Lanota/scripts/Middle Scroll.lua
+mods/Lanota/scripts/Song Name.lua
+mods/Lanota/fonts/vcr.ttf
+mods/songs/frey's-philosophy-(legacy)/Voices.ogg
+mods/songs/frey's-philosophy-(legacy)/voices.ogg
+mods/songs/frey's-philosophy-(legacy)/Inst.ogg
+mods/songs/frey's-philosophy-(legacy)/inst.ogg

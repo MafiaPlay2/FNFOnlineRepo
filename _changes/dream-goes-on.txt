@@ -1,0 +1,29 @@
+mods/data/dream-goes-on/dream-goes-on-acoustic.json
+mods/data/dream-goes-on/dream-goes-on-master.json
+mods/data/dream-goes-on/dream-goes-on-ultra.json
+mods/data/dream-goes-on/dream-goes-on-whisper.json
+mods/data/dream-goes-on/events.json
+mods/data/dream-goes-on/mod.txt
+mods/Lanota/characters/ritmofriend.json
+mods/Lanota/characters/gone.json
+mods/Lanota/characters/girlfisica.json
+mods/Lanota/stages/dgostage.json
+mods/Lanota/stages/dgostage.lua
+mods/Lanota/images/characters/ritmofriend.png
+mods/Lanota/images/characters/ritmofriend.xml
+mods/Lanota/images/characters/gone.png
+mods/Lanota/images/characters/gone.xml
+mods/Lanota/images/characters/girlfisica.png
+mods/Lanota/images/characters/girlfisica.xml
+mods/Lanota/custom_events/Set Cam Zoom.lua
+mods/Lanota/scripts/customUI.lua
+mods/Lanota/scripts/easyunderlay.lua
+mods/Lanota/scripts/Middle Scroll.lua
+mods/Lanota/scripts/Song Name.lua
+mods/Lanota/images/stage.png
+mods/Lanota/images/songBG.png
+mods/Lanota/fonts/vcr.ttf
+mods/songs/dream-goes-on/Voices.ogg
+mods/songs/dream-goes-on/voices.ogg
+mods/songs/dream-goes-on/Inst.ogg
+mods/songs/dream-goes-on/inst.ogg

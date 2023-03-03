@@ -1,0 +1,30 @@
+mods/data/trauma/events.json
+mods/data/trauma/mod.txt
+mods/data/trauma/trauma-acoustic.json
+mods/data/trauma/trauma-master.json
+mods/data/trauma/trauma-ultra.json
+mods/data/trauma/trauma-whisper.json
+mods/Lanota/characters/ritmofriend.json
+mods/Lanota/characters/gone.json
+mods/Lanota/characters/girlfisica.json
+mods/Lanota/stages/trauma.json
+mods/Lanota/stages/trauma.lua
+mods/Lanota/images/characters/ritmofriend.png
+mods/Lanota/images/characters/ritmofriend.xml
+mods/Lanota/images/characters/gone.png
+mods/Lanota/images/characters/gone.xml
+mods/Lanota/images/characters/girlfisica.png
+mods/Lanota/images/characters/girlfisica.xml
+mods/Lanota/custom_events/Set Cam Zoom.lua
+mods/Lanota/scripts/customUI.lua
+mods/Lanota/scripts/easyunderlay.lua
+mods/Lanota/scripts/Middle Scroll.lua
+mods/Lanota/scripts/Song Name.lua
+mods/Lanota/images/trauma_bg_back.png
+mods/Lanota/images/trauma_bg_notalium.png
+mods/Lanota/images/songBG.png
+mods/Lanota/fonts/vcr.ttf
+mods/songs/trauma/Voices.ogg
+mods/songs/trauma/voices.ogg
+mods/songs/trauma/Inst.ogg
+mods/songs/trauma/inst.ogg

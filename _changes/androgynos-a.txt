@@ -1,0 +1,34 @@
+mods/data/androgynos-a/androgynos-a-acoustic.json
+mods/data/androgynos-a/androgynos-a-master.json
+mods/data/androgynos-a/androgynos-a-masterold.json
+mods/data/androgynos-a/androgynos-a-ultra.json
+mods/data/androgynos-a/androgynos-a-whisper.json
+mods/data/androgynos-a/events.json
+mods/data/androgynos-a/mod.txt
+mods/Lanota/characters/ritmofriend.json
+mods/Lanota/characters/gone.json
+mods/Lanota/characters/girlfisica.json
+mods/Lanota/stages/androa.json
+mods/Lanota/stages/androa.lua
+mods/Lanota/images/characters/ritmofriend.png
+mods/Lanota/images/characters/ritmofriend.xml
+mods/Lanota/images/characters/gone.png
+mods/Lanota/images/characters/gone.xml
+mods/Lanota/images/characters/girlfisica.png
+mods/Lanota/images/characters/girlfisica.xml
+mods/Lanota/stages/trauma.json
+mods/Lanota/stages/trauma.lua
+mods/Lanota/custom_events/Set Cam Zoom.lua
+mods/Lanota/scripts/customUI.lua
+mods/Lanota/scripts/easyunderlay.lua
+mods/Lanota/scripts/Middle Scroll.lua
+mods/Lanota/scripts/Song Name.lua
+mods/Lanota/images/androa_bg.png
+mods/Lanota/images/trauma_bg_back.png
+mods/Lanota/images/trauma_bg_notalium.png
+mods/Lanota/images/songBG.png
+mods/Lanota/fonts/vcr.ttf
+mods/songs/androgynos-a/Voices.ogg
+mods/songs/androgynos-a/voices.ogg
+mods/songs/androgynos-a/Inst.ogg
+mods/songs/androgynos-a/inst.ogg

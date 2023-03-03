@@ -1,0 +1,27 @@
+mods/data/nyever-gonna-meow-you-nyup/mod.txt
+mods/data/nyever-gonna-meow-you-nyup/nyever-gonna-meow-you-nyup-acoustic.json
+mods/data/nyever-gonna-meow-you-nyup/nyever-gonna-meow-you-nyup-master.json
+mods/data/nyever-gonna-meow-you-nyup/nyever-gonna-meow-you-nyup-ultra.json
+mods/data/nyever-gonna-meow-you-nyup/nyever-gonna-meow-you-nyup-whisper.json
+mods/Lanota/characters/ritmofriend.json
+mods/Lanota/characters/girlfeline.json
+mods/Lanota/characters/gone.json
+mods/Lanota/stages/dgostage.json
+mods/Lanota/stages/dgostage.lua
+mods/Lanota/images/characters/ritmofriend.png
+mods/Lanota/images/characters/ritmofriend.xml
+mods/Lanota/images/characters/girlfeline.png
+mods/Lanota/images/characters/girlfeline.xml
+mods/Lanota/images/characters/gone.png
+mods/Lanota/images/characters/gone.xml
+mods/Lanota/scripts/customUI.lua
+mods/Lanota/scripts/easyunderlay.lua
+mods/Lanota/scripts/Middle Scroll.lua
+mods/Lanota/scripts/Song Name.lua
+mods/Lanota/images/stage.png
+mods/Lanota/images/songBG.png
+mods/Lanota/fonts/vcr.ttf
+mods/songs/nyever-gonna-meow-you-nyup/Voices.ogg
+mods/songs/nyever-gonna-meow-you-nyup/voices.ogg
+mods/songs/nyever-gonna-meow-you-nyup/Inst.ogg
+mods/songs/nyever-gonna-meow-you-nyup/inst.ogg

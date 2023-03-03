@@ -1,0 +1,29 @@
+mods/data/frey's-philosophy/events.json
+mods/data/frey's-philosophy/frey's-philosophy-acoustic.json
+mods/data/frey's-philosophy/frey's-philosophy-master.json
+mods/data/frey's-philosophy/frey's-philosophy-ultra.json
+mods/data/frey's-philosophy/frey's-philosophy-whisper.json
+mods/data/frey's-philosophy/mod.txt
+mods/Lanota/characters/ritmofriend.json
+mods/Lanota/characters/boss_frey.json
+mods/Lanota/characters/girlfisica.json
+mods/Lanota/stages/freys.json
+mods/Lanota/stages/freys.lua
+mods/Lanota/images/characters/ritmofriend.png
+mods/Lanota/images/characters/ritmofriend.xml
+mods/Lanota/images/characters/gone.png
+mods/Lanota/images/characters/gone.xml
+mods/Lanota/images/characters/girlfisica.png
+mods/Lanota/images/characters/girlfisica.xml
+mods/Lanota/custom_events/Set Cam Zoom.lua
+mods/Lanota/scripts/customUI.lua
+mods/Lanota/scripts/easyunderlay.lua
+mods/Lanota/scripts/Middle Scroll.lua
+mods/Lanota/scripts/Song Name.lua
+mods/Lanota/images/freysbg.png
+mods/Lanota/images/songBG.png
+mods/Lanota/fonts/vcr.ttf
+mods/songs/frey's-philosophy/Voices.ogg
+mods/songs/frey's-philosophy/voices.ogg
+mods/songs/frey's-philosophy/Inst.ogg
+mods/songs/frey's-philosophy/inst.ogg

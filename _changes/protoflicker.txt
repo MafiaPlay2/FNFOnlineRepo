@@ -1,0 +1,29 @@
+mods/data/protoflicker/events.json
+mods/data/protoflicker/mod.txt
+mods/data/protoflicker/protoflicker-acoustic.json
+mods/data/protoflicker/protoflicker-master.json
+mods/data/protoflicker/protoflicker-ultra.json
+mods/data/protoflicker/protoflicker-whisper.json
+mods/Lanota/characters/ritmofriend.json
+mods/Lanota/characters/gone.json
+mods/Lanota/characters/girlfisica.json
+mods/Lanota/stages/protoflicker.json
+mods/Lanota/stages/protoflicker.lua
+mods/Lanota/images/characters/ritmofriend.png
+mods/Lanota/images/characters/ritmofriend.xml
+mods/Lanota/images/characters/gone.png
+mods/Lanota/images/characters/gone.xml
+mods/Lanota/images/characters/girlfisica.png
+mods/Lanota/images/characters/girlfisica.xml
+mods/Lanota/custom_events/Set Cam Zoom.lua
+mods/Lanota/scripts/customUI.lua
+mods/Lanota/scripts/easyunderlay.lua
+mods/Lanota/scripts/Middle Scroll.lua
+mods/Lanota/scripts/Song Name.lua
+mods/Lanota/images/protoflicker_bg.png
+mods/Lanota/images/songBG.png
+mods/Lanota/fonts/vcr.ttf
+mods/songs/protoflicker/Voices.ogg
+mods/songs/protoflicker/voices.ogg
+mods/songs/protoflicker/Inst.ogg
+mods/songs/protoflicker/inst.ogg

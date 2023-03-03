@@ -1,0 +1,131 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-142,
+				-220
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GIRLFELINELEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-111,
+				-258
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GIRLFELINEDOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-174,
+				-158
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "girlfelineUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-220
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "girlfelineIdle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-142,
+				-220
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "GIRLFELINELEFT",
+			"indices": [
+				1,
+				2
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-161,
+				-220
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "girlfelineRight",
+			"indices": [
+				1,
+				2
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-174,
+				-158
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "girlfelineUp",
+			"indices": [
+				1,
+				2
+			]
+		},
+		{
+			"offsets": [
+				-150,
+				-220
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "girlfelineIdle"
+		},
+		{
+			"offsets": [
+				-161,
+				-220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "girlfelineRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/girlfeline",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "girlfeline",
+	"flip_x": false,
+	"healthbar_colors": [
+		113,
+		49,
+		21
+	],
+	"camera_position": [
+		0,
+		270
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

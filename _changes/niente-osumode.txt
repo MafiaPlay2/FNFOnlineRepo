@@ -1,0 +1,18 @@
+mods/data/niente/events.json
+mods/data/niente/mod.txt
+mods/data/niente/niente-acoustic.json
+mods/data/niente/niente-master.json
+mods/data/niente/niente-ultra.json
+mods/data/niente/niente-whisper.json
+mods/Lanota/stages/niente.json
+mods/Lanota/stages/niente.lua
+mods/Lanota/custom_events/Set Cam Zoom.lua
+mods/Lanota/scripts/customUI.lua
+mods/Lanota/scripts/easyunderlay.lua
+mods/Lanota/scripts/Middle Scroll.lua
+mods/Lanota/scripts/Song Name.lua
+mods/Lanota/fonts/vcr.ttf
+mods/songs/niente/Voices.ogg
+mods/songs/niente/voices.ogg
+mods/songs/niente/Inst.ogg
+mods/songs/niente/inst.ogg

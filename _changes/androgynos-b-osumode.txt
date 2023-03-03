@@ -1,0 +1,20 @@
+mods/data/androgynos-b/androgynos-b-acoustic.json
+mods/data/androgynos-b/androgynos-b-master.json
+mods/data/androgynos-b/androgynos-b-masterold.json
+mods/data/androgynos-b/androgynos-b-ultra.json
+mods/data/androgynos-b/androgynos-b-whisper.json
+mods/data/androgynos-b/events.json
+mods/data/androgynos-b/mod.txt
+mods/data/androgynos-b/script.lua
+mods/Lanota/stages/androb.json
+mods/Lanota/stages/androb.lua
+mods/Lanota/custom_events/Set Cam Zoom.lua
+mods/Lanota/scripts/customUI.lua
+mods/Lanota/scripts/easyunderlay.lua
+mods/Lanota/scripts/Middle Scroll.lua
+mods/Lanota/scripts/Song Name.lua
+mods/Lanota/fonts/vcr.ttf
+mods/songs/androgynos-b/Voices.ogg
+mods/songs/androgynos-b/voices.ogg
+mods/songs/androgynos-b/Inst.ogg
+mods/songs/androgynos-b/inst.ogg

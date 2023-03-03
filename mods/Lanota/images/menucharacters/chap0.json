@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M bf HEY",
+	"idle_anim": "M BF Idle",
+	"position": [
+		65,
+		-10
+	],
+	"scale": 1,
+	"flipX": false,
+	"image": "chap0"
+}

@@ -1,0 +1,29 @@
+mods/data/you-are-the-miserable/events.json
+mods/data/you-are-the-miserable/mod.txt
+mods/data/you-are-the-miserable/you-are-the-miserable-acoustic.json
+mods/data/you-are-the-miserable/you-are-the-miserable-master.json
+mods/data/you-are-the-miserable/you-are-the-miserable-ultra.json
+mods/data/you-are-the-miserable/you-are-the-miserable-whisper.json
+mods/Lanota/characters/ritmofriend.json
+mods/Lanota/characters/boss_yatm.json
+mods/Lanota/characters/girlfisica.json
+mods/Lanota/stages/yatm.json
+mods/Lanota/stages/yatm.lua
+mods/Lanota/images/characters/ritmofriend.png
+mods/Lanota/images/characters/ritmofriend.xml
+mods/Lanota/images/characters/gone.png
+mods/Lanota/images/characters/gone.xml
+mods/Lanota/images/characters/girlfisica.png
+mods/Lanota/images/characters/girlfisica.xml
+mods/Lanota/custom_events/Set Cam Zoom.lua
+mods/Lanota/scripts/customUI.lua
+mods/Lanota/scripts/easyunderlay.lua
+mods/Lanota/scripts/Middle Scroll.lua
+mods/Lanota/scripts/Song Name.lua
+mods/Lanota/images/yatm_bg.png
+mods/Lanota/images/songBG.png
+mods/Lanota/fonts/vcr.ttf
+mods/songs/you-are-the-miserable/Voices.ogg
+mods/songs/you-are-the-miserable/voices.ogg
+mods/songs/you-are-the-miserable/Inst.ogg
+mods/songs/you-are-the-miserable/inst.ogg
