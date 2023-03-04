@@ -18,3 +18,4 @@
 - [Vs Danke DEMO](https://gamebanana.com/mods/405356)
 - [Animania](https://gamebanana.com/wips/74234)
 - [Artistic Altitude](https://gamebanana.com/mods/339298)
+- [Friday Night Tunin](https://gamebanana.com/mods/383779)
