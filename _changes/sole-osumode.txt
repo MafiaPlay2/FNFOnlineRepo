@@ -1,6 +1,9 @@
+mods/data/sole/mod.txt
 mods/data/sole/sole-easy.json
 mods/data/sole/sole-hard.json
 mods/data/sole/sole.json
+mods/doge/stages/couch.json
+mods/doge/stages/couch.lua
 mods/songs/sole/Voices.ogg
 mods/songs/sole/voices.ogg
 mods/songs/sole/Inst.ogg

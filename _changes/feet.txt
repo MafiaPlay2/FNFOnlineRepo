@@ -1,6 +1,14 @@
 mods/data/feet/feet-easy.json
 mods/data/feet/feet-hard.json
 mods/data/feet/feet.json
+mods/data/feet/mod.txt
+mods/doge/characters/doge.json
+mods/doge/stages/couch.json
+mods/doge/stages/couch.lua
+mods/doge/images/characters/doge_assets.png
+mods/doge/images/characters/doge_assets.xml
+mods/doge/images/couch/couchback.png
+mods/doge/images/couch/couchfront.png
 mods/songs/feet/Voices.ogg
 mods/songs/feet/voices.ogg
 mods/songs/feet/Inst.ogg

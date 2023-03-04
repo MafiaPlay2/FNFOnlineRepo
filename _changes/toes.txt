@@ -1,6 +1,14 @@
+mods/data/toes/mod.txt
 mods/data/toes/toes-easy.json
 mods/data/toes/toes-hard.json
 mods/data/toes/toes.json
+mods/doge/characters/doge.json
+mods/doge/stages/couch.json
+mods/doge/stages/couch.lua
+mods/doge/images/characters/doge_assets.png
+mods/doge/images/characters/doge_assets.xml
+mods/doge/images/couch/couchback.png
+mods/doge/images/couch/couchfront.png
 mods/songs/toes/Voices.ogg
 mods/songs/toes/voices.ogg
 mods/songs/toes/Inst.ogg

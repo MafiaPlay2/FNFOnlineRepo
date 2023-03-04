@@ -1,6 +1,9 @@
 mods/data/feet/feet-easy.json
 mods/data/feet/feet-hard.json
 mods/data/feet/feet.json
+mods/data/feet/mod.txt
+mods/doge/stages/couch.json
+mods/doge/stages/couch.lua
 mods/songs/feet/Voices.ogg
 mods/songs/feet/voices.ogg
 mods/songs/feet/Inst.ogg

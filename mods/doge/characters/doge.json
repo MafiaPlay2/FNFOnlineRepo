@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				130
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "doge idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				125
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "doge left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				132
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "doge right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				137
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "doge up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				109,
+				129
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "doge down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/doge_assets",
+	"position": [
+		-30,
+		300
+	],
+	"healthicon": "pico",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		-60,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

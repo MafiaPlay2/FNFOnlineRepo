@@ -1,6 +1,9 @@
+mods/data/toes/mod.txt
 mods/data/toes/toes-easy.json
 mods/data/toes/toes-hard.json
 mods/data/toes/toes.json
+mods/doge/stages/couch.json
+mods/doge/stages/couch.lua
 mods/songs/toes/Voices.ogg
 mods/songs/toes/voices.ogg
 mods/songs/toes/Inst.ogg

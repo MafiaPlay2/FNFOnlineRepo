@@ -1,6 +1,14 @@
+mods/data/sole/mod.txt
 mods/data/sole/sole-easy.json
 mods/data/sole/sole-hard.json
 mods/data/sole/sole.json
+mods/doge/characters/doge.json
+mods/doge/stages/couch.json
+mods/doge/stages/couch.lua
+mods/doge/images/characters/doge_assets.png
+mods/doge/images/characters/doge_assets.xml
+mods/doge/images/couch/couchback.png
+mods/doge/images/couch/couchfront.png
 mods/songs/sole/Voices.ogg
 mods/songs/sole/voices.ogg
 mods/songs/sole/Inst.ogg
