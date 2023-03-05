@@ -1,0 +1,329 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "spaceA",
+		"player1": "bf",
+		"player2": "void",
+		"player3": null,
+		"events": [
+			[
+				26600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				26700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				26800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				27200,
+				[
+					[
+						"Image Flash",
+						"coolflash-image",
+						"0.2"
+					]
+				]
+			],
+			[
+				40300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				41200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				41900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				42800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				43500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				44400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				45100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				46000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				46700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				47600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				48300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				49200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				49900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				50800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				51500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				52000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				52200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				52400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				52600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Image Flash",
+						"coolflash-image",
+						"0.1"
+					]
+				]
+			],
+			[
+				65600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				68800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				75200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				78400,
+				[
+					[
+						"Image Flash",
+						"coolflash-image",
+						"0.1"
+					]
+				]
+			],
+			[
+				94400,
+				[
+					[
+						"Camera Follow Pos",
+						"750",
+						"430"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Smooth cam zoom",
+						"0.70",
+						"3.1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Asteroids"
+	}
+}

@@ -1,0 +1,149 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "spaceU",
+		"player1": "bf",
+		"player2": "void",
+		"player3": null,
+		"events": [
+			[
+				101142.857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				101464.285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				101785.714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				102107.142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				102428.571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				102642.857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				108321.428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				108642.857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				108964.285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				109285.714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				109500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				150964.285714286,
+				[
+					[
+						"Play Animation",
+						"Pose",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Ultraviolet"
+	}
+}

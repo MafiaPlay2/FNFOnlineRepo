@@ -1,0 +1,49 @@
+mods/data/stardust/epicthing.lua
+mods/data/stardust/events.json
+mods/Void/characters/starNightGlow.json
+mods/Void/images/characters/starbreakNightGlow.png
+mods/Void/images/characters/starbreakNightGlow.xml
+mods/Void/characters/starNight.json
+mods/Void/images/characters/starbreakNight.png
+mods/Void/images/characters/starbreakNight.xml
+mods/data/stardust/lightB.lua
+mods/data/stardust/lightG.lua
+mods/data/stardust/mod.txt
+mods/data/stardust/stardust-easy.json
+mods/data/stardust/stardust-hard.json
+mods/data/stardust/stardust.json
+mods/Void/stages/metro.json
+mods/Void/stages/metro.lua
+mods/Void/characters/bfNight.json
+mods/Void/characters/gfNight.json
+mods/Void/images/characters/bfNight.png
+mods/Void/images/characters/bfNight.xml
+mods/Void/images/characters/gfNight.png
+mods/Void/images/characters/gfNight.xml
+mods/Void/custom_events/Toggle Trail Star.lua
+mods/Void/custom_events/Replace stage layer fade.lua
+mods/Void/custom_events/Image Flash.lua
+mods/Void/custom_events/Replace stage layer.lua
+mods/Void/custom_events/Wilter Camera Zoom Star.lua
+mods/Void/custom_events/Smooth cam zoom.lua
+mods/Void/scripts/bopBeat.lua
+mods/Void/scripts/preloads.lua
+mods/Void/images/metroSky.png
+mods/Void/images/metroSkyFlash.png
+mods/Void/images/metroCityBG.png
+mods/Void/images/metroLightB.png
+mods/Void/images/metroLightG.png
+mods/Void/images/metroRoof.png
+mods/Void/images/coolflash.png
+mods/Void/images/coolflash-alt.png
+mods/Void/images/vingette.png
+mods/Void/images/flashbang.png
+mods/Void/images/spaceBGFlash.png
+mods/Void/images/bgGlitch.png
+mods/Void/images/coolflash-image.png
+mods/Void/images/camTint.png
+mods/Void/images/vignette.png
+mods/songs/stardust/Voices.ogg
+mods/songs/stardust/voices.ogg
+mods/songs/stardust/Inst.ogg
+mods/songs/stardust/inst.ogg

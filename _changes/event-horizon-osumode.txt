@@ -1,0 +1,21 @@
+mods/data/event-horizon/BGflash.lua
+mods/data/event-horizon/boppers.lua
+mods/data/event-horizon/camBoppin.lua
+mods/data/event-horizon/event-horizon-easy.json
+mods/data/event-horizon/event-horizon-hard.json
+mods/data/event-horizon/event-horizon.json
+mods/data/event-horizon/events.json
+mods/data/event-horizon/mod.txt
+mods/data/event-horizon/rockfg.lua
+mods/data/event-horizon/rocks.lua
+mods/data/event-horizon/script.lua
+mods/Void/stages/space.json
+mods/Void/stages/space.lua
+mods/Void/custom_events/Wilter Camera Zoom.lua
+mods/Void/custom_events/Smooth cam zoom.lua
+mods/Void/scripts/bopBeat.lua
+mods/Void/scripts/preloads.lua
+mods/songs/event-horizon/Voices.ogg
+mods/songs/event-horizon/voices.ogg
+mods/songs/event-horizon/Inst.ogg
+mods/songs/event-horizon/inst.ogg

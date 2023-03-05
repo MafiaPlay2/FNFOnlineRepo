@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "defeat",
+			"fps": 12,
+			"name": "Defeat",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "stun",
+			"fps": 12,
+			"name": "Stunned",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "scrm",
+			"fps": 20,
+			"name": "Scream",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "pose",
+			"fps": 12,
+			"name": "Void Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "wink",
+			"fps": 12,
+			"name": "Void Wink",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Flinch A",
+			"fps": 12,
+			"name": "Flinch A",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Flinch B",
+			"fps": 12,
+			"name": "Flinch B",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "succ",
+			"indices": [],
+			"name": "Succ"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/specialAnim",
+	"position": [
+		-160,
+		-130
+	],
+	"healthicon": "ac_void",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		4,
+		68
+	],
+	"camera_position": [
+		-100,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_V2",
+	"position": [
+		155,
+		25
+	],
+	"scale": 0.75,
+	"idle_anim": "ACvoid idle Black Lines",
+	"confirm_anim": "M Dad Idle"
+}

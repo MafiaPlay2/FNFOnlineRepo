@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "Umm",
+			"text": "Okay, screw you, dude. Like, ACTUALLY screw you.",
+			"boxState": "normal",
+			"sound": "Vnormtext",
+			"portrait": "void",
+			"speed": 0.05
+		},
+		{
+			"expression": "Mad",
+			"text": "Don't you know who I am? You think you can just come out here, with your stupid beep-boop voice, and your hot girlfriend...",
+			"boxState": "normal",
+			"sound": "Vmadtext",
+			"portrait": "void",
+			"speed": 0.05
+		},
+		{
+			"expression": "Rage",
+			"text": "And make me look bad? ON MY OWN FREAKIN' STAGE?? REALLY??",
+			"boxState": "angry",
+			"sound": "Vmadtext",
+			"portrait": "void",
+			"speed": 0.05
+		},
+		{
+			"expression": "Rage",
+			"text": "HOW ARE YOU EVEN BREATHING OUT HERE?!",
+			"boxState": "angry",
+			"sound": "Vmadtext",
+			"portrait": "void",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "Beep",
+			"boxState": "normal",
+			"sound": "Bftext",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "Mad",
+			"text": "Enough. I'm A.C. Void. A-C-FREAKIN' VOID. And you're nothing but a speck in the universe. a NOBODY.",
+			"boxState": "normal",
+			"sound": "Vmadtext",
+			"portrait": "void",
+			"speed": 0.05
+		},
+		{
+			"expression": "Rage",
+			"text": "Trust me pal, you are NOT making it out of this. I'm bout' to send you into another DIMENSION.",
+			"boxState": "angry",
+			"sound": "Vmadtext",
+			"portrait": "void",
+			"speed": 0.05
+		},
+		{
+			"expression": "Mad",
+			"text": "...Let's go.",
+			"boxState": "normal",
+			"sound": "Vnormtext",
+			"portrait": "void",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "Beep BOP. >:)",
+			"boxState": "normal",
+			"sound": "BfText",
+			"portrait": "bf",
+			"speed": 0.05
+		}
+	]
+}

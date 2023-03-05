@@ -1,0 +1,11 @@
+{
+	"idle_anim": "GF Dancing Beat WHITE",
+	"image": "menu_gfpurps",
+	"position": [
+		145,
+		147
+	],
+	"flipX": false,
+	"scale": 0.5,
+	"confirm_anim": "BFHEY! !"
+}

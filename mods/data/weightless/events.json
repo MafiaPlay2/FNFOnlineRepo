@@ -1,0 +1,234 @@
+{
+	"song": {
+		"speed": 2.1,
+		"stage": "spaceW",
+		"player1": "bf",
+		"player2": "void",
+		"player3": null,
+		"events": [
+			[
+				3692.30769230769,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				8538.46153846154,
+				[
+					[
+						"Play Animation",
+						"wink",
+						"Dad"
+					]
+				]
+			],
+			[
+				9181.73076923077,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				11019.2307692308,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				16551.9230769231,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				18461.5384615385,
+				[
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				33230.7692307692,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				44307.6923076923,
+				[
+					[
+						"Smooth cam zoom",
+						"0.95",
+						"4"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Image Flash",
+						"coolflash-image",
+						"0.2"
+					],
+					[
+						"Smooth cam zoom",
+						"0.70",
+						"0.2"
+					],
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				77538.4615384615,
+				[
+					[
+						"Image Flash",
+						"coolflash-image",
+						"0.2"
+					]
+				]
+			],
+			[
+				79500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				79961.5384615384,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				80423.0769230769,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				80884.6153846153,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				86884.6153846153,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				87346.1538461538,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				87807.6923076923,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				88269.2307692307,
+				[
+					[
+						"Add Camera Zoom",
+						"0.040",
+						""
+					]
+				]
+			],
+			[
+				107076.923076923,
+				[
+					[
+						"Image Flash",
+						"coolflash-image",
+						"0.3"
+					],
+					[
+						"Play Animation",
+						"cheer",
+						"GF"
+					]
+				]
+			],
+			[
+				107884.615384615,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"BF"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Weightless"
+	}
+}

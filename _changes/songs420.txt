@@ -17,3 +17,4 @@ mods/weeks/Vs Danke.json
 mods/weeks/Animania.json
 mods/weeks/Artistic Altitude.json
 mods/weeks/Friday Night Tunin.json
+mods/weeks/Vs Void.json

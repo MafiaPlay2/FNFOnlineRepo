@@ -1,0 +1,22 @@
+mods/data/stardust/epicthing.lua
+mods/data/stardust/events.json
+mods/data/stardust/lightB.lua
+mods/data/stardust/lightG.lua
+mods/data/stardust/mod.txt
+mods/data/stardust/stardust-easy.json
+mods/data/stardust/stardust-hard.json
+mods/data/stardust/stardust.json
+mods/Void/stages/metro.json
+mods/Void/stages/metro.lua
+mods/Void/custom_events/Toggle Trail Star.lua
+mods/Void/custom_events/Replace stage layer fade.lua
+mods/Void/custom_events/Image Flash.lua
+mods/Void/custom_events/Replace stage layer.lua
+mods/Void/custom_events/Wilter Camera Zoom Star.lua
+mods/Void/custom_events/Smooth cam zoom.lua
+mods/Void/scripts/bopBeat.lua
+mods/Void/scripts/preloads.lua
+mods/songs/stardust/Voices.ogg
+mods/songs/stardust/voices.ogg
+mods/songs/stardust/Inst.ogg
+mods/songs/stardust/inst.ogg

@@ -1,0 +1,59 @@
+fun facts about the port
+
+-Lighting Reed's Psychic eventhorizon cover was what inspired me to make the port
+
+-The reason why coolflash and spaceBGFlash have much more color to them is because they felt really
+desaturated to me and plus it look nice 
+
+-Originally A.C Void's ghost trail was planned on only having the effects on the sprite(check the characters folder)
+
+-man you should totally join Starbreak's discord server(must be +13)
+
+-I was going to have it where during a couple of songs that had words in the inst(example being in asteroids when it says "turn it up!")
+would appear on screen for a short time but I was too lazy to do it(might still do it tho)
+
+-Before update "Horizon Overhaul part 1" the port was made within the mind games mod(the actual mod). This is because I tried it out in the mod and was too lazy to transfer it 
+
+-the sprite "Zippyrocksbf" was used for a short funni I made for people in Star's discord server(bf ded)
+
+-I thought of having where at one point during stardust the BG lights and windows would be different colors as a reference to star's first song Retro Metro
+
+-In older versions if you looked at the character editor you probally noticed that the stage floor is different. This is because I orginally used the engine to make a lua version of the corruption stages for someone.
+
+-The images flashbang and blacc are used for the cam flashes instead of the lua string version so it wouldnt cause lag
+
+-There is a tiny reference to the old charting during event horizon.(it's really easy to find)
+
+-I was thinking about having the black spots on bgBreak to show the oblivion stage(Singularity stage)
+
+-The reason why the screm animation plays right after wind up is because it looks like he's transforming into his black hole animation(well to me it looks like it)
+
+-tintedSpaceBG matches the one in the bg of the V2 void mod art(not the exact same but it's close enough)
+
+-Void in holoEmpty-V is a seperate sprite because it looks much better when he doesnt float the same as the holoBoppers
+
+-During Security GF was going to be sitting on the right platform where one of the accretions would be
+-- well that's all of em for now(unused stuff might be added at a later date)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+haha you looked
