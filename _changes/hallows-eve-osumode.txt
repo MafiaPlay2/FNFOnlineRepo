@@ -1,0 +1,14 @@
+mods/data/hallows-eve/events.json
+mods/data/hallows-eve/hallows-eve-hard.json
+mods/data/hallows-eve/mod.txt
+mods/data/hallows-eve/script.lua
+mods/trick/stages/street.json
+mods/trick/stages/street.lua
+mods/trick/custom_notetypes/Together.lua
+mods/trick/custom_notetypes/Trick Only.lua
+mods/trick/custom_events/Icon Change.lua
+mods/trick/scripts/dnbIcons.lua
+mods/songs/hallows-eve/Voices.ogg
+mods/songs/hallows-eve/voices.ogg
+mods/songs/hallows-eve/Inst.ogg
+mods/songs/hallows-eve/inst.ogg

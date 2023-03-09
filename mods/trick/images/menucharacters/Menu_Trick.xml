@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Trick.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Trick Idle0000" x="2" y="2" width="473" height="950"/>
+	<SubTexture name="M Trick Idle0001" x="2" y="2" width="473" height="950"/>
+	<SubTexture name="M Trick Idle0002" x="477" y="2" width="473" height="950"/>
+	<SubTexture name="M Trick Idle0003" x="477" y="2" width="473" height="950"/>
+	<SubTexture name="M Trick Idle0004" x="952" y="2" width="473" height="950"/>
+	<SubTexture name="M Trick Idle0005" x="952" y="2" width="473" height="950"/>
+	<SubTexture name="M Trick Idle0006" x="1427" y="2" width="473" height="950"/>
+	<SubTexture name="M Trick Idle0007" x="1427" y="2" width="473" height="950"/>
+	<SubTexture name="M Trick Idle0008" x="2" y="954" width="473" height="950"/>
+	<SubTexture name="M Trick Idle0009" x="2" y="954" width="473" height="950"/>
+	<SubTexture name="M Trick Idle0010" x="2" y="954" width="473" height="950"/>
+	<SubTexture name="M Trick Idle0011" x="2" y="954" width="473" height="950"/>
+	<SubTexture name="M Trick Idle0012" x="2" y="954" width="473" height="950"/>
+	<SubTexture name="M Trick Idle0013" x="2" y="954" width="473" height="950"/>
+</TextureAtlas>

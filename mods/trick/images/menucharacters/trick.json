@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M Trick Idle",
+	"confirm_anim": "M Trick Idle",
+	"position": [
+		500,
+		290
+	],
+	"scale": 0.4,
+	"flipX": false,
+	"image": "Menu_Trick"
+}

@@ -1,0 +1,10 @@
+mods/data/treat/mod.txt
+mods/data/treat/script.lua
+mods/data/treat/treat-hard.json
+mods/trick/stages/street.json
+mods/trick/stages/street.lua
+mods/trick/scripts/dnbIcons.lua
+mods/songs/treat/Voices.ogg
+mods/songs/treat/voices.ogg
+mods/songs/treat/Inst.ogg
+mods/songs/treat/inst.ogg

@@ -1,0 +1,32 @@
+mods/data/hallows-eve/events.json
+mods/data/hallows-eve/hallows-eve-hard.json
+mods/data/hallows-eve/mod.txt
+mods/data/hallows-eve/script.lua
+mods/trick/characters/bf.json
+mods/trick/characters/treat.json
+mods/trick/characters/gf-minions.json
+mods/trick/stages/street.json
+mods/trick/stages/street.lua
+mods/trick/images/characters/treat.png
+mods/trick/images/characters/treat.xml
+mods/trick/images/characters/GF_Illumination_Characters_The_Minions.png
+mods/trick/images/characters/GF_Illumination_Characters_The_Minions.xml
+mods/trick/custom_notetypes/Together.lua
+mods/trick/custom_notetypes/Trick Only.lua
+mods/trick/custom_events/Icon Change.lua
+mods/trick/scripts/dnbIcons.lua
+mods/trick/images/street/sky.png
+mods/trick/images/street/neighbours.png
+mods/trick/images/street/house.png
+mods/trick/images/street/road.png
+mods/trick/images/street/streetlights.png
+mods/trick/images/street/bg-bop1.png
+mods/trick/images/street/bg-bop2.png
+mods/trick/images/street/bg-bop3.png
+mods/trick/images/street/lighting.png
+mods/trick/images/street/fg-bop1.png
+mods/trick/images/street/fg-bop2.png
+mods/songs/hallows-eve/Voices.ogg
+mods/songs/hallows-eve/voices.ogg
+mods/songs/hallows-eve/Inst.ogg
+mods/songs/hallows-eve/inst.ogg

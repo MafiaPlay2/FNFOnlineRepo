@@ -18,3 +18,4 @@ mods/weeks/Animania.json
 mods/weeks/Artistic Altitude.json
 mods/weeks/Friday Night Tunin.json
 mods/weeks/Vs Void.json
+mods/weeks/Trick N treatin.json

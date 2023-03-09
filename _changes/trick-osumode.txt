@@ -1,0 +1,9 @@
+mods/data/trick/mod.txt
+mods/data/trick/trick-hard.json
+mods/trick/stages/street.json
+mods/trick/stages/street.lua
+mods/trick/scripts/dnbIcons.lua
+mods/songs/trick/Voices.ogg
+mods/songs/trick/voices.ogg
+mods/songs/trick/Inst.ogg
+mods/songs/trick/inst.ogg

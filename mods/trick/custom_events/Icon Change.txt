@@ -1,0 +1,4 @@
+Change the opponent's icon.
+Used in Hallow's Eve.
+
+Value 1: Treat, Trick or Halloween.
