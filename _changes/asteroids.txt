@@ -12,8 +12,8 @@ mods/Void/characters/bf.json
 mods/Void/characters/void.json
 mods/Void/stages/space.json
 mods/Void/stages/space.lua
-mods/Void/images/characters/Void_assets.png
-mods/Void/images/characters/Void_assets.xml
+mods/Void/images/characters/void_assets.png
+mods/Void/images/characters/void_assets.xml
 mods/Void/custom_events/Smooth cam zoom.lua
 mods/Void/custom_events/Image Flash.lua
 mods/Void/scripts/bopBeat.lua
